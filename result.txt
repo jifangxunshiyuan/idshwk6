@@ -1,0 +1,3420 @@
+date:
+2022年 05月 18日 星期三 20:26:26 CST
+os version:
+Ubuntu 20.04.1 LTS \n \l
+
+hardware informatin
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1361.971
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1350.113
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 0
+cpu cores	: 4
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1308.906
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 1
+cpu cores	: 4
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1278.250
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 1
+cpu cores	: 4
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 4
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1338.077
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 2
+cpu cores	: 4
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 5
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1260.123
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 2
+cpu cores	: 4
+apicid		: 5
+initial apicid	: 5
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 6
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1298.419
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 3
+cpu cores	: 4
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+processor	: 7
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 1361.984
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 3
+cpu cores	: 4
+apicid		: 7
+initial apicid	: 7
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 4192.00
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+MemTotal:        6088260 kB
+MemFree:         2301140 kB
+MemAvailable:    4162484 kB
+Buffers:          248212 kB
+Cached:          1793140 kB
+SwapCached:            0 kB
+Active:          2077696 kB
+Inactive:        1156016 kB
+Active(anon):    1188372 kB
+Inactive(anon):    88668 kB
+Active(file):     889324 kB
+Inactive(file):  1067348 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       8000508 kB
+SwapFree:        8000508 kB
+Dirty:               256 kB
+Writeback:             0 kB
+AnonPages:       1192508 kB
+Mapped:           565344 kB
+Shmem:             90080 kB
+KReclaimable:     203172 kB
+Slab:             360556 kB
+SReclaimable:     203172 kB
+SUnreclaim:       157384 kB
+KernelStack:       13136 kB
+PageTables:        18444 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    11044636 kB
+Committed_AS:    5237000 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       34204 kB
+VmallocChunk:          0 kB
+Percpu:            16384 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      388116 kB
+DirectMap2M:     4792320 kB
+DirectMap1G:     2097152 kB
+uptime:
+ 20:37:25 up 17 min,  1 user,  load average: 0.01, 0.26, 0.52
+diskinfo:
+Disk /dev/loop0：61.92 MiB，64909312 字节，126776 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop1：4 KiB，4096 字节，8 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop2：55.53 MiB，58212352 字节，113696 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop4：61.92 MiB，64901120 字节，126760 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop5：219 MiB，229638144 字节，448512 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop6：219 MiB，229638144 字节，448512 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop7：247.93 MiB，259948544 字节，507712 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/nvme0n1：238.49 GiB，256060514304 字节，500118192 个扇区
+Disk model: RPFTJ256PDD2MWX                         
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+磁盘标签类型：gpt
+磁盘标识符：0F40E6D4-F0F7-49C8-BF6C-21375A2F30D2
+
+设备                起点      末尾      扇区   大小 类型
+/dev/nvme0n1p1      2048    534527    532480   260M EFI 系统
+/dev/nvme0n1p2    534528    567295     32768    16M Microsoft 保留
+/dev/nvme0n1p3    567296 498069503 497502208 237.2G Microsoft 基本数据
+/dev/nvme0n1p4 498069504 500117503   2048000  1000M Windows 恢复环境
+
+
+Disk /dev/sda：931.53 GiB，1000204886016 字节，1953525168 个扇区
+Disk model: WDC WD10SPZX-24Z
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 4096 字节
+I/O 大小(最小/最佳)：4096 字节 / 4096 字节
+磁盘标签类型：gpt
+磁盘标识符：C9386529-FE14-422D-9A91-183A03A50172
+
+设备             起点       末尾       扇区   大小 类型
+/dev/sda1          34      32767      32734    16M Microsoft 保留
+/dev/sda2       32768 1600448511 1600415744 763.1G Microsoft 基本数据
+/dev/sda3  1600448512 1690447871   89999360  42.9G Linux 文件系统
+/dev/sda4  1690447872 1706448895   16001024   7.6G Linux swap
+/dev/sda5  1706448896 1707448319     999424   488M EFI 系统
+/dev/sda6  1707448320 1810167807  102719488    49G Linux 文件系统
+
+
+
+Disk /dev/loop8：248.78 MiB，260841472 字节，509456 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop9：65.1 MiB，68259840 字节，133320 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop10：65.22 MiB，68378624 字节，133552 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop11：50.98 MiB，53432320 字节，104360 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop12：54.24 MiB，56872960 字节，111080 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop13：43.64 MiB，45748224 字节，89352 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop14：55.55 MiB，58232832 字节，113736 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+
+
+Disk /dev/loop15：44.69 MiB，46845952 字节，91496 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+softwares:
+accountsservice					install
+acl						install
+acpi-support					install
+acpid						install
+adduser						install
+adwaita-icon-theme				install
+alsa-base					install
+alsa-topology-conf				install
+alsa-ucm-conf					install
+alsa-utils					install
+amd64-microcode					install
+anacron						install
+apg						install
+app-install-data-partner			install
+apparmor					install
+apport						install
+apport-gtk					install
+apport-symptoms					install
+appstream					install
+apt						install
+apt-config-icons				install
+apt-config-icons-hidpi				install
+apt-utils					install
+aptdaemon					install
+aptdaemon-data					install
+apturl						install
+apturl-common					install
+aspell						install
+aspell-en					install
+at-spi2-core					install
+autoconf					install
+automake					install
+autotools-dev					install
+avahi-autoipd					install
+avahi-daemon					install
+avahi-utils					install
+base-files					install
+base-passwd					install
+bash						install
+bash-completion					install
+bc						install
+bind9-dnsutils					install
+bind9-host					install
+bind9-libs:amd64				install
+binutils					install
+binutils-common:amd64				install
+binutils-x86-64-linux-gnu			install
+bison						install
+blt						install
+bluez						install
+bluez-cups					install
+bluez-obexd					install
+bolt						install
+brltty						install
+bsdmainutils					install
+bsdutils					install
+bubblewrap					install
+build-essential					install
+busybox-initramfs				install
+busybox-static					install
+bzip2						install
+ca-certificates					install
+cheese-common					install
+cmake						install
+cmake-data					install
+colord						install
+colord-data					install
+command-not-found				install
+console-setup					install
+console-setup-linux				install
+coreutils					install
+cpio						install
+cpp						install
+cpp-8						install
+cpp-9						install
+cppcheck					install
+cracklib-runtime				install
+crda						install
+cron						install
+cups						install
+cups-browsed					install
+cups-bsd					install
+cups-client					install
+cups-common					install
+cups-core-drivers				install
+cups-daemon					install
+cups-filters					install
+cups-filters-core-drivers			install
+cups-ipp-utils					install
+cups-pk-helper					install
+cups-ppdc					install
+cups-server-common				install
+curl						install
+cython3						install
+dash						install
+dbus						install
+dbus-user-session				install
+dbus-x11					install
+dc						install
+dconf-cli					install
+dconf-gsettings-backend:amd64			install
+dconf-service					install
+debconf						install
+debconf-i18n					install
+debianutils					install
+default-libmysqlclient-dev:amd64		install
+desktop-file-utils				install
+dictionaries-common				install
+diffutils					install
+dirmngr						install
+distro-info-data				install
+dmidecode					install
+dmsetup						install
+dmz-cursor-theme				install
+dns-root-data					install
+dnsmasq-base					install
+docbook-xml					install
+docutils-common					install
+dosfstools					install
+dpkg						install
+dpkg-dev					install
+e2fsprogs					install
+ed						install
+efibootmgr					install
+eject						install
+emacsen-common					install
+enchant-2					install
+eog						install
+espeak-ng-data:amd64				install
+evince						install
+evince-common					install
+evolution-data-server				install
+evolution-data-server-common			install
+fakeroot					install
+fdisk						install
+ffmpeg						install
+file						install
+file-roller					install
+findutils					install
+firefox						install
+firefox-locale-en				install
+firefox-locale-zh-hans				install
+flex						install
+fontconfig					install
+fontconfig-config				install
+fonts-arphic-ukai				install
+fonts-arphic-uming				install
+fonts-beng					install
+fonts-beng-extra				install
+fonts-dejavu-core				install
+fonts-deva					install
+fonts-deva-extra				install
+fonts-droid-fallback				install
+fonts-freefont-ttf				install
+fonts-gargi					install
+fonts-gubbi					install
+fonts-gujr					install
+fonts-gujr-extra				install
+fonts-guru					install
+fonts-guru-extra				install
+fonts-indic					install
+fonts-kacst					install
+fonts-kacst-one					install
+fonts-kalapi					install
+fonts-khmeros-core				install
+fonts-knda					install
+fonts-lao					install
+fonts-liberation				install
+fonts-liberation2				install
+fonts-lklug-sinhala				install
+fonts-lohit-beng-assamese			install
+fonts-lohit-beng-bengali			install
+fonts-lohit-deva				install
+fonts-lohit-gujr				install
+fonts-lohit-guru				install
+fonts-lohit-knda				install
+fonts-lohit-mlym				install
+fonts-lohit-orya				install
+fonts-lohit-taml				install
+fonts-lohit-taml-classical			install
+fonts-lohit-telu				install
+fonts-lyx					install
+fonts-mlym					install
+fonts-nakula					install
+fonts-navilu					install
+fonts-noto-cjk					install
+fonts-noto-cjk-extra				install
+fonts-noto-color-emoji				install
+fonts-noto-mono					install
+fonts-opensymbol				install
+fonts-orya					install
+fonts-orya-extra				install
+fonts-pagul					install
+fonts-sahadeva					install
+fonts-samyak-deva				install
+fonts-samyak-gujr				install
+fonts-samyak-mlym				install
+fonts-samyak-taml				install
+fonts-sarai					install
+fonts-sil-abyssinica				install
+fonts-sil-padauk				install
+fonts-smc					install
+fonts-smc-anjalioldlipi				install
+fonts-smc-chilanka				install
+fonts-smc-dyuthi				install
+fonts-smc-gayathri				install
+fonts-smc-karumbi				install
+fonts-smc-keraleeyam				install
+fonts-smc-manjari				install
+fonts-smc-meera					install
+fonts-smc-rachana				install
+fonts-smc-raghumalayalamsans			install
+fonts-smc-suruma				install
+fonts-smc-uroob					install
+fonts-taml					install
+fonts-telu					install
+fonts-telu-extra				install
+fonts-thai-tlwg					install
+fonts-tibetan-machine				install
+fonts-tlwg-garuda				install
+fonts-tlwg-garuda-ttf				install
+fonts-tlwg-kinnari				install
+fonts-tlwg-kinnari-ttf				install
+fonts-tlwg-laksaman				install
+fonts-tlwg-laksaman-ttf				install
+fonts-tlwg-loma					install
+fonts-tlwg-loma-ttf				install
+fonts-tlwg-mono					install
+fonts-tlwg-mono-ttf				install
+fonts-tlwg-norasi				install
+fonts-tlwg-norasi-ttf				install
+fonts-tlwg-purisa				install
+fonts-tlwg-purisa-ttf				install
+fonts-tlwg-sawasdee				install
+fonts-tlwg-sawasdee-ttf				install
+fonts-tlwg-typewriter				install
+fonts-tlwg-typewriter-ttf			install
+fonts-tlwg-typist				install
+fonts-tlwg-typist-ttf				install
+fonts-tlwg-typo					install
+fonts-tlwg-typo-ttf				install
+fonts-tlwg-umpush				install
+fonts-tlwg-umpush-ttf				install
+fonts-tlwg-waree				install
+fonts-tlwg-waree-ttf				install
+fonts-ubuntu					install
+fonts-urw-base35				install
+fonts-yrsa-rasa					install
+foomatic-db-compressed-ppds			install
+fprintd						install
+freeglut3:amd64					install
+friendly-recovery				install
+ftp						install
+fuse						install
+fwupd						install
+fwupd-signed					install
+g++						install
+g++-9						install
+gamemode					install
+gcc						install
+gcc-10-base:amd64				install
+gcc-7-base:amd64				install
+gcc-8						install
+gcc-8-base:amd64				install
+gcc-9						install
+gcc-9-base:amd64				install
+gcr						install
+gdal-data					install
+gdb						install
+gdbserver					install
+gdisk						install
+gdm3						install
+gedit						install
+gedit-common					install
+genisoimage					install
+geoclue-2.0					install
+gettext-base					install
+gfortran					install
+gfortran-8					install
+gfortran-9					install
+ghostscript					install
+ghostscript-x					install
+gir1.2-accountsservice-1.0			install
+gir1.2-atk-1.0:amd64				install
+gir1.2-atspi-2.0:amd64				install
+gir1.2-dbusmenu-glib-0.4:amd64			install
+gir1.2-dee-1.0					install
+gir1.2-freedesktop:amd64			install
+gir1.2-gck-1:amd64				install
+gir1.2-gcr-3:amd64				install
+gir1.2-gdesktopenums-3.0:amd64			install
+gir1.2-gdkpixbuf-2.0:amd64			install
+gir1.2-gdm-1.0:amd64				install
+gir1.2-geoclue-2.0:amd64			install
+gir1.2-glib-2.0:amd64				install
+gir1.2-gmenu-3.0:amd64				install
+gir1.2-gnomebluetooth-1.0:amd64			install
+gir1.2-gnomedesktop-3.0:amd64			install
+gir1.2-goa-1.0:amd64				install
+gir1.2-graphene-1.0:amd64			install
+gir1.2-gstreamer-1.0:amd64			install
+gir1.2-gtk-3.0:amd64				install
+gir1.2-gtksource-4:amd64			install
+gir1.2-gweather-3.0:amd64			install
+gir1.2-ibus-1.0:amd64				install
+gir1.2-javascriptcoregtk-4.0:amd64		install
+gir1.2-json-1.0:amd64				install
+gir1.2-mutter-6:amd64				install
+gir1.2-nm-1.0:amd64				install
+gir1.2-nma-1.0:amd64				install
+gir1.2-notify-0.7:amd64				install
+gir1.2-packagekitglib-1.0			install
+gir1.2-pango-1.0:amd64				install
+gir1.2-peas-1.0:amd64				install
+gir1.2-polkit-1.0				install
+gir1.2-rsvg-2.0:amd64				install
+gir1.2-secret-1:amd64				install
+gir1.2-snapd-1:amd64				install
+gir1.2-soup-2.4:amd64				install
+gir1.2-unity-5.0:amd64				install
+gir1.2-upowerglib-1.0:amd64			install
+gir1.2-vte-2.91:amd64				install
+gir1.2-webkit2-4.0:amd64			install
+gir1.2-wnck-3.0:amd64				install
+git						install
+git-man						install
+gjs						install
+gkbd-capplet					install
+glib-networking:amd64				install
+glib-networking-common				install
+glib-networking-services			install
+gnome-accessibility-themes			install
+gnome-bluetooth					install
+gnome-calculator				install
+gnome-characters				install
+gnome-control-center				install
+gnome-control-center-data			install
+gnome-control-center-faces			install
+gnome-desktop3-data				install
+gnome-disk-utility				install
+gnome-font-viewer				install
+gnome-getting-started-docs			install
+gnome-initial-setup				install
+gnome-keyring					install
+gnome-keyring-pkcs11:amd64			install
+gnome-logs					install
+gnome-menus					install
+gnome-online-accounts				install
+gnome-power-manager				install
+gnome-screenshot				install
+gnome-session-bin				install
+gnome-session-canberra				install
+gnome-session-common				install
+gnome-settings-daemon				install
+gnome-settings-daemon-common			install
+gnome-shell					install
+gnome-shell-common				install
+gnome-shell-extension-appindicator		install
+gnome-shell-extension-desktop-icons		install
+gnome-shell-extension-ubuntu-dock		install
+gnome-startup-applications			install
+gnome-system-monitor				install
+gnome-terminal					install
+gnome-terminal-data				install
+gnome-themes-extra:amd64			install
+gnome-themes-extra-data				install
+gnome-user-docs					install
+gnome-user-docs-zh-hans				install
+gnupg						install
+gnupg-l10n					install
+gnupg-utils					install
+gnupg2						install
+google-mock:amd64				install
+googletest					install
+gpg						install
+gpg-agent					install
+gpg-wks-client					install
+gpg-wks-server					install
+gpgconf						install
+gpgsm						install
+gpgv						install
+graphviz					install
+grep						install
+groff-base					install
+grub-common					install
+grub-efi-amd64-bin				install
+grub-efi-amd64-signed				install
+grub-gfxpayload-lists				install
+grub-pc						install
+grub-pc-bin					install
+grub2-common					install
+gsettings-desktop-schemas			install
+gsettings-ubuntu-schemas			install
+gstreamer1.0-alsa:amd64				install
+gstreamer1.0-clutter-3.0:amd64			install
+gstreamer1.0-gl:amd64				install
+gstreamer1.0-packagekit				install
+gstreamer1.0-plugins-base:amd64			install
+gstreamer1.0-plugins-base-apps			install
+gstreamer1.0-plugins-good:amd64			install
+gstreamer1.0-pulseaudio:amd64			install
+gstreamer1.0-tools				install
+gstreamer1.0-x:amd64				install
+gtk-update-icon-cache				install
+gtk2-engines-murrine:amd64			install
+gtk2-engines-pixbuf:amd64			install
+gvfs:amd64					install
+gvfs-backends					install
+gvfs-bin					install
+gvfs-common					install
+gvfs-daemons					install
+gvfs-fuse					install
+gvfs-libs:amd64					install
+gzip						install
+hdf5-helpers					install
+hdparm						install
+hicolor-icon-theme				install
+hostname					install
+hplip						install
+hplip-data					install
+humanity-icon-theme				install
+hunspell-en-au					install
+hunspell-en-ca					install
+hunspell-en-gb					install
+hunspell-en-us					install
+hunspell-en-za					install
+i965-va-driver:amd64				install
+ibus						install
+ibus-data					install
+ibus-gtk:amd64					install
+ibus-gtk3:amd64					install
+ibus-libpinyin					install
+ibus-table					install
+ibus-table-wubi					install
+ibverbs-providers:amd64				install
+icu-devtools					install
+iio-sensor-proxy				install
+im-config					install
+info						install
+init						install
+init-system-helpers				install
+initramfs-tools					install
+initramfs-tools-bin				install
+initramfs-tools-core				install
+inputattach					install
+install-info					install
+intel-media-va-driver:amd64			install
+intel-microcode					install
+ippusbxd					install
+iproute2					install
+iptables					install
+iputils-ping					install
+iputils-tracepath				install
+irqbalance					install
+isc-dhcp-client					install
+isc-dhcp-common					install
+iso-codes					install
+iucode-tool					install
+iw						install
+javascript-common				install
+kbd						install
+kerneloops					install
+keyboard-configuration				install
+klibc-utils					install
+kmod						install
+krb5-locales					install
+language-pack-en				install
+language-pack-en-base				install
+language-pack-gnome-en				install
+language-pack-gnome-en-base			install
+language-pack-gnome-zh-hans			install
+language-pack-gnome-zh-hans-base		install
+language-pack-zh-hans				install
+language-pack-zh-hans-base			install
+language-selector-common			install
+language-selector-gnome				install
+laptop-detect					install
+less						install
+libaa1:amd64					install
+libaacs0:amd64					install
+libaccountsservice0:amd64			install
+libacl1:amd64					install
+libaec-dev:amd64				install
+libaec0:amd64					install
+libalgorithm-diff-perl				install
+libalgorithm-diff-xs-perl			install
+libalgorithm-merge-perl				install
+libamtk-5-0:amd64				install
+libamtk-5-common				install
+libann0						install
+libao-common					install
+libao4:amd64					install
+libaom0:amd64					install
+libapparmor1:amd64				install
+libappindicator3-1				install
+libappstream4:amd64				install
+libapt-pkg6.0:amd64				install
+libarchive13:amd64				install
+libargon2-1:amd64				install
+libarmadillo-dev				install
+libarmadillo9					install
+libarpack2:amd64				install
+libarpack2-dev:amd64				install
+libasan4:amd64					install
+libasan5:amd64					install
+libasn1-8-heimdal:amd64				install
+libasound2:amd64				install
+libasound2-data					install
+libasound2-dev:amd64				install
+libasound2-plugins:amd64			install
+libaspell15:amd64				install
+libass9:amd64					install
+libassimp-dev:amd64				install
+libassimp5:amd64				install
+libassuan0:amd64				install
+libasyncns0:amd64				install
+libatasmart4:amd64				install
+libatk-adaptor:amd64				install
+libatk-bridge2.0-0:amd64			install
+libatk1.0-0:amd64				install
+libatk1.0-data					install
+libatkmm-1.6-1v5:amd64				install
+libatm1:amd64					install
+libatomic1:amd64				install
+libatopology2:amd64				install
+libatspi2.0-0:amd64				install
+libattr1:amd64					install
+libaudit-common					install
+libaudit1:amd64					install
+libauthen-sasl-perl				install
+libavahi-client3:amd64				install
+libavahi-common-data:amd64			install
+libavahi-common3:amd64				install
+libavahi-core7:amd64				install
+libavahi-glib1:amd64				install
+libavc1394-0:amd64				install
+libavcodec-dev:amd64				install
+libavcodec58:amd64				install
+libavdevice58:amd64				install
+libavfilter7:amd64				install
+libavformat-dev:amd64				install
+libavformat58:amd64				install
+libavresample-dev:amd64				install
+libavresample4:amd64				install
+libavutil-dev:amd64				install
+libavutil56:amd64				install
+libbabeltrace1:amd64				install
+libbdplus0:amd64				install
+libbinutils:amd64				install
+libblas-dev:amd64				install
+libblas3:amd64					install
+libblkid-dev:amd64				install
+libblkid1:amd64					install
+libblockdev-crypto2:amd64			install
+libblockdev-fs2:amd64				install
+libblockdev-loop2:amd64				install
+libblockdev-part-err2:amd64			install
+libblockdev-part2:amd64				install
+libblockdev-swap2:amd64				install
+libblockdev-utils2:amd64			install
+libblockdev2:amd64				install
+libbluetooth3:amd64				install
+libbluray2:amd64				install
+libboost-all-dev				install
+libboost-atomic-dev:amd64			install
+libboost-atomic1.71-dev:amd64			install
+libboost-atomic1.71.0:amd64			install
+libboost-chrono-dev:amd64			install
+libboost-chrono1.71-dev:amd64			install
+libboost-chrono1.71.0:amd64			install
+libboost-container-dev:amd64			install
+libboost-container1.71-dev:amd64		install
+libboost-container1.71.0:amd64			install
+libboost-context-dev:amd64			install
+libboost-context1.71-dev:amd64			install
+libboost-context1.71.0:amd64			install
+libboost-coroutine-dev:amd64			install
+libboost-coroutine1.71-dev:amd64		install
+libboost-coroutine1.71.0:amd64			install
+libboost-date-time-dev:amd64			install
+libboost-date-time1.71-dev:amd64		install
+libboost-date-time1.71.0:amd64			install
+libboost-dev:amd64				install
+libboost-exception-dev:amd64			install
+libboost-exception1.71-dev:amd64		install
+libboost-fiber-dev:amd64			install
+libboost-fiber1.71-dev:amd64			install
+libboost-fiber1.71.0:amd64			install
+libboost-filesystem-dev:amd64			install
+libboost-filesystem1.71-dev:amd64		install
+libboost-filesystem1.71.0:amd64			install
+libboost-graph-dev:amd64			install
+libboost-graph-parallel-dev			install
+libboost-graph-parallel1.71-dev			install
+libboost-graph-parallel1.71.0			install
+libboost-graph1.71-dev:amd64			install
+libboost-graph1.71.0:amd64			install
+libboost-iostreams-dev:amd64			install
+libboost-iostreams1.71-dev:amd64		install
+libboost-iostreams1.71.0:amd64			install
+libboost-locale-dev:amd64			install
+libboost-locale1.71-dev:amd64			install
+libboost-locale1.71.0:amd64			install
+libboost-log-dev				install
+libboost-log1.71-dev				install
+libboost-log1.71.0				install
+libboost-math-dev:amd64				install
+libboost-math1.71-dev:amd64			install
+libboost-math1.71.0:amd64			install
+libboost-mpi-dev				install
+libboost-mpi-python-dev				install
+libboost-mpi-python1.71-dev			install
+libboost-mpi-python1.71.0			install
+libboost-mpi1.71-dev				install
+libboost-mpi1.71.0				install
+libboost-numpy-dev				install
+libboost-numpy1.71-dev				install
+libboost-numpy1.71.0				install
+libboost-program-options-dev:amd64		install
+libboost-program-options1.71-dev:amd64		install
+libboost-program-options1.71.0:amd64		install
+libboost-python-dev				install
+libboost-python1.71-dev				install
+libboost-python1.71.0				install
+libboost-random-dev:amd64			install
+libboost-random1.71-dev:amd64			install
+libboost-random1.71.0:amd64			install
+libboost-regex-dev:amd64			install
+libboost-regex1.71-dev:amd64			install
+libboost-regex1.71.0:amd64			install
+libboost-serialization-dev:amd64		install
+libboost-serialization1.71-dev:amd64		install
+libboost-serialization1.71.0:amd64		install
+libboost-stacktrace-dev:amd64			install
+libboost-stacktrace1.71-dev:amd64		install
+libboost-stacktrace1.71.0:amd64			install
+libboost-system-dev:amd64			install
+libboost-system1.71-dev:amd64			install
+libboost-system1.71.0:amd64			install
+libboost-test-dev:amd64				install
+libboost-test1.71-dev:amd64			install
+libboost-test1.71.0:amd64			install
+libboost-thread-dev:amd64			install
+libboost-thread1.71-dev:amd64			install
+libboost-thread1.71.0:amd64			install
+libboost-timer-dev:amd64			install
+libboost-timer1.71-dev:amd64			install
+libboost-timer1.71.0:amd64			install
+libboost-tools-dev				install
+libboost-type-erasure-dev:amd64			install
+libboost-type-erasure1.71-dev:amd64		install
+libboost-type-erasure1.71.0:amd64		install
+libboost-wave-dev:amd64				install
+libboost-wave1.71-dev:amd64			install
+libboost-wave1.71.0:amd64			install
+libboost1.71-dev:amd64				install
+libboost1.71-tools-dev				install
+libbrlapi0.7:amd64				install
+libbrotli1:amd64				install
+libbs2b0:amd64					install
+libbsd0:amd64					install
+libbullet-dev:amd64				install
+libbullet2.88:amd64				install
+libbz2-1.0:amd64				install
+libc-bin					install
+libc-dev-bin					install
+libc6:amd64					install
+libc6-dbg:amd64					install
+libc6-dev:amd64					install
+libcaca0:amd64					install
+libcaf-openmpi-3:amd64				install
+libcairo-gobject-perl				install
+libcairo-gobject2:amd64				install
+libcairo-perl					install
+libcairo2:amd64					install
+libcairomm-1.0-1v5:amd64			install
+libcamel-1.2-62:amd64				install
+libcanberra-gtk3-0:amd64			install
+libcanberra-gtk3-module:amd64			install
+libcanberra-pulse:amd64				install
+libcanberra0:amd64				install
+libcap-ng0:amd64				install
+libcap2:amd64					install
+libcap2-bin					install
+libcbor0.6:amd64				install
+libcc1-0:amd64					install
+libcdio-cdda2:amd64				install
+libcdio-paranoia2:amd64				install
+libcdio18:amd64					install
+libcdparanoia0:amd64				install
+libcdt5:amd64					install
+libcfitsio-dev:amd64				install
+libcfitsio-doc					install
+libcfitsio8:amd64				install
+libcgraph6:amd64				install
+libcharls-dev:amd64				install
+libcharls2:amd64				install
+libcheese-gtk25:amd64				install
+libcheese8:amd64				install
+libchromaprint1:amd64				install
+libcilkrts5:amd64				install
+libclang1-10					install
+libclutter-1.0-0:amd64				install
+libclutter-1.0-common				install
+libclutter-gst-3.0-0:amd64			install
+libclutter-gtk-1.0-0:amd64			install
+libcoarrays-dev:amd64				install
+libcoarrays-openmpi-dev:amd64			install
+libcodec2-0.9:amd64				install
+libcogl-common					install
+libcogl-pango20:amd64				install
+libcogl-path20:amd64				install
+libcogl20:amd64					install
+libcolord-gtk1:amd64				install
+libcolord2:amd64				install
+libcolorhug2:amd64				install
+libcom-err2:amd64				install
+libconsole-bridge-dev:amd64			install
+libconsole-bridge0.4:amd64			install
+libcrack2:amd64					install
+libcrypt-dev:amd64				install
+libcrypt1:amd64					install
+libcryptsetup12:amd64				install
+libctf-nobfd0:amd64				install
+libctf0:amd64					install
+libcue2:amd64					install
+libcups2:amd64					install
+libcupsfilters1:amd64				install
+libcupsimage2:amd64				install
+libcurl3-gnutls:amd64				install
+libcurl4:amd64					install
+libcurl4-openssl-dev:amd64			install
+libdaemon0:amd64				install
+libdap-dev:amd64				install
+libdap25:amd64					install
+libdapclient6v5:amd64				install
+libdapserver7v5:amd64				install
+libdata-dump-perl				install
+libdatrie1:amd64				install
+libdb5.3:amd64					install
+libdbus-1-3:amd64				install
+libdbus-1-dev:amd64				install
+libdbus-glib-1-2:amd64				install
+libdbusmenu-glib4:amd64				install
+libdbusmenu-gtk3-4:amd64			install
+libdc1394-22:amd64				install
+libdc1394-22-dev:amd64				install
+libdconf1:amd64					install
+libdebconfclient0:amd64				install
+libdee-1.0-4:amd64				install
+libdevmapper1.02.1:amd64			install
+libdjvulibre-text				install
+libdjvulibre21:amd64				install
+libdns-export1109				install
+libdotconf0:amd64				install
+libdouble-conversion3:amd64			install
+libdpkg-perl					install
+libdrm-amdgpu1:amd64				install
+libdrm-common					install
+libdrm-intel1:amd64				install
+libdrm-nouveau2:amd64				install
+libdrm-radeon1:amd64				install
+libdrm2:amd64					install
+libdumbnet-dev					install
+libdumbnet1:amd64				install
+libdv4:amd64					install
+libdw1:amd64					install
+libebackend-1.2-10:amd64			install
+libebook-1.2-20:amd64				install
+libebook-contacts-1.2-3:amd64			install
+libecal-2.0-1:amd64				install
+libedata-book-1.2-26:amd64			install
+libedata-cal-2.0-1:amd64			install
+libedataserver-1.2-24:amd64			install
+libedataserverui-1.2-2:amd64			install
+libedit2:amd64					install
+libefiboot1:amd64				install
+libefivar1:amd64				install
+libegl-dev:amd64				install
+libegl-mesa0:amd64				install
+libegl1:amd64					install
+libegl1-mesa-dev:amd64				install
+libeigen3-dev					install
+libelf1:amd64					install
+libenchant-2-2:amd64				install
+libencode-locale-perl				install
+libepoxy0:amd64					install
+libepsilon-dev:amd64				install
+libepsilon1:amd64				install
+liberror-perl					install
+libespeak-ng1:amd64				install
+libestr0:amd64					install
+libevdev2:amd64					install
+libevdocument3-4:amd64				install
+libevent-2.1-7:amd64				install
+libevent-core-2.1-7:amd64			install
+libevent-dev					install
+libevent-extra-2.1-7:amd64			install
+libevent-openssl-2.1-7:amd64			install
+libevent-pthreads-2.1-7:amd64			install
+libevview3-3:amd64				install
+libexempi8:amd64				install
+libexif-dev:amd64				install
+libexif-doc					install
+libexif12:amd64					install
+libexiv2-27:amd64				install
+libexpat1:amd64					install
+libexpat1-dev:amd64				install
+libext2fs2:amd64				install
+libextutils-depends-perl			install
+libextutils-pkgconfig-perl			install
+libfabric1					install
+libfakeroot:amd64				install
+libfastjson4:amd64				install
+libfdisk1:amd64					install
+libffi-dev:amd64				install
+libffi7:amd64					install
+libfftw3-double3:amd64				install
+libfftw3-single3:amd64				install
+libfido2-1:amd64				install
+libfile-basedir-perl				install
+libfile-desktopentry-perl			install
+libfile-fcntllock-perl				install
+libfile-listing-perl				install
+libfile-mimeinfo-perl				install
+libfl-dev:amd64					install
+libfl2:amd64					install
+libflac8:amd64					install
+libflann-dev:amd64				install
+libflann1.9:amd64				install
+libflite1:amd64					install
+libfont-afm-perl				install
+libfontconfig1:amd64				install
+libfontconfig1-dev:amd64			install
+libfontembed1:amd64				install
+libfontenc1:amd64				install
+libfprint-2-2:amd64				install
+libfprint-2-tod1:amd64				install
+libfreeimage3:amd64				install
+libfreetype-dev:amd64				install
+libfreetype6:amd64				install
+libfreetype6-dev:amd64				install
+libfreexl-dev:amd64				install
+libfreexl1:amd64				install
+libfribidi0:amd64				install
+libfuse2:amd64					install
+libfwupd2:amd64					install
+libfwupdplugin1:amd64				install
+libfyba-dev:amd64				install
+libfyba0:amd64					install
+libgail-common:amd64				install
+libgail18:amd64					install
+libgamemode0					install
+libgamemodeauto0				install
+libgbm1:amd64					install
+libgcab-1.0-0:amd64				install
+libgcc-7-dev:amd64				install
+libgcc-8-dev:amd64				install
+libgcc-9-dev:amd64				install
+libgcc-s1:amd64					install
+libgck-1-0:amd64				install
+libgcr-base-3-1:amd64				install
+libgcr-ui-3-1:amd64				install
+libgcrypt20:amd64				install
+libgd3:amd64					install
+libgdal-dev					install
+libgdal26					install
+libgdata-common					install
+libgdata22:amd64				install
+libgdbm-compat4:amd64				install
+libgdbm6:amd64					install
+libgdcm-dev					install
+libgdcm3.0:amd64				install
+libgdk-pixbuf2.0-0:amd64			install
+libgdk-pixbuf2.0-bin				install
+libgdk-pixbuf2.0-common				install
+libgdm1						install
+libgee-0.8-2:amd64				install
+libgeoclue-2-0:amd64				install
+libgeocode-glib0:amd64				install
+libgeos-3.8.0:amd64				install
+libgeos-c1v5:amd64				install
+libgeos-dev					install
+libgeotiff-dev:amd64				install
+libgeotiff5:amd64				install
+libgexiv2-2:amd64				install
+libgfortran-8-dev:amd64				install
+libgfortran-9-dev:amd64				install
+libgfortran5:amd64				install
+libgif-dev					install
+libgif7:amd64					install
+libgirepository-1.0-1:amd64			install
+libgjs0g:amd64					install
+libgl-dev:amd64					install
+libgl1:amd64					install
+libgl1-mesa-dev:amd64				install
+libgl1-mesa-dri:amd64				install
+libgl2ps-dev					install
+libgl2ps1.4					install
+libglapi-mesa:amd64				install
+libgles-dev:amd64				install
+libgles1:amd64					install
+libgles2:amd64					install
+libgles2-mesa-dev:amd64				install
+libglew-dev:amd64				install
+libglew2.1:amd64				install
+libglib-object-introspection-perl		install
+libglib-perl:amd64				install
+libglib2.0-0:amd64				install
+libglib2.0-bin					install
+libglib2.0-data					install
+libglib2.0-dev:amd64				install
+libglib2.0-dev-bin				install
+libglibmm-2.4-1v5:amd64				install
+libglu1-mesa:amd64				install
+libglu1-mesa-dev:amd64				install
+libglvnd-dev:amd64				install
+libglvnd0:amd64					install
+libglx-dev:amd64				install
+libglx-mesa0:amd64				install
+libglx0:amd64					install
+libgme0:amd64					install
+libgmp10:amd64					install
+libgnome-autoar-0-0:amd64			install
+libgnome-bluetooth13:amd64			install
+libgnome-desktop-3-19:amd64			install
+libgnome-menu-3-0:amd64				install
+libgnomekbd-common				install
+libgnomekbd8:amd64				install
+libgnutls30:amd64				install
+libgoa-1.0-0b:amd64				install
+libgoa-1.0-common				install
+libgoa-backend-1.0-1:amd64			install
+libgomp1:amd64					install
+libgpg-error0:amd64				install
+libgpgme11:amd64				install
+libgphoto2-6:amd64				install
+libgphoto2-dev:amd64				install
+libgphoto2-l10n					install
+libgphoto2-port12:amd64				install
+libgpm2:amd64					install
+libgraphene-1.0-0:amd64				install
+libgraphite2-3:amd64				install
+libgs9:amd64					install
+libgs9-common					install
+libgsf-1-114:amd64				install
+libgsf-1-common					install
+libgsm1:amd64					install
+libgsound0:amd64				install
+libgspell-1-2:amd64				install
+libgspell-1-common				install
+libgssapi-krb5-2:amd64				install
+libgssapi3-heimdal:amd64			install
+libgssdp-1.2-0:amd64				install
+libgstreamer-gl1.0-0:amd64			install
+libgstreamer-plugins-base1.0-0:amd64		install
+libgstreamer-plugins-good1.0-0:amd64		install
+libgstreamer1.0-0:amd64				install
+libgtest-dev:amd64				install
+libgtk-3-0:amd64				install
+libgtk-3-bin					install
+libgtk-3-common					install
+libgtk2.0-0:amd64				install
+libgtk2.0-bin					install
+libgtk2.0-common				install
+libgtk3-perl					install
+libgtkmm-3.0-1v5:amd64				install
+libgtksourceview-4-0:amd64			install
+libgtksourceview-4-common			install
+libgtop-2.0-11:amd64				install
+libgtop2-common					install
+libgts-0.7-5:amd64				install
+libgts-bin					install
+libgudev-1.0-0:amd64				install
+libgupnp-1.2-0:amd64				install
+libgupnp-av-1.0-2				install
+libgupnp-dlna-2.0-3				install
+libgusb2:amd64					install
+libgvc6						install
+libgvpr2:amd64					install
+libgweather-3-16:amd64				install
+libgweather-common				install
+libgxps2:amd64					install
+libhandy-0.0-0:amd64				install
+libharfbuzz-icu0:amd64				install
+libharfbuzz0b:amd64				install
+libhcrypto4-heimdal:amd64			install
+libhdf4-0-alt					install
+libhdf4-alt-dev					install
+libhdf5-103:amd64				install
+libhdf5-cpp-103:amd64				install
+libhdf5-dev					install
+libhdf5-mpi-dev					install
+libhdf5-openmpi-103:amd64			install
+libhdf5-openmpi-dev				install
+libheimbase1-heimdal:amd64			install
+libheimntlm0-heimdal:amd64			install
+libhogweed5:amd64				install
+libhpmud0:amd64					install
+libhtml-form-perl				install
+libhtml-format-perl				install
+libhtml-parser-perl				install
+libhtml-tagset-perl				install
+libhtml-tree-perl				install
+libhttp-cookies-perl				install
+libhttp-daemon-perl				install
+libhttp-date-perl				install
+libhttp-message-perl				install
+libhttp-negotiate-perl				install
+libhunspell-1.7-0:amd64				install
+libhwloc-dev:amd64				install
+libhwloc-plugins:amd64				install
+libhwloc15:amd64				install
+libhx509-5-heimdal:amd64			install
+libhyphen0:amd64				install
+libibus-1.0-5:amd64				install
+libibus-1.0-dev:amd64				install
+libibverbs-dev:amd64				install
+libibverbs1:amd64				install
+libical3:amd64					install
+libice-dev:amd64				install
+libice6:amd64					install
+libicu-dev:amd64				install
+libicu66:amd64					install
+libid3tag0:amd64				install
+libidn11:amd64					install
+libidn2-0:amd64					install
+libiec61883-0:amd64				install
+libieee1284-3:amd64				install
+libigdgmm11:amd64				install
+libijs-0.35:amd64				install
+libilmbase-dev:amd64				install
+libilmbase24:amd64				install
+libimagequant0:amd64				install
+libimlib2:amd64					install
+libimobiledevice6:amd64				install
+libinput-bin					install
+libinput10:amd64				install
+libio-html-perl					install
+libio-socket-ssl-perl				install
+libio-stringy-perl				install
+libip4tc2:amd64					install
+libip6tc2:amd64					install
+libipc-system-simple-perl			install
+libisc-export1105:amd64				install
+libisl22:amd64					install
+libitm1:amd64					install
+libiw30:amd64					install
+libjack-jackd2-0:amd64				install
+libjansson4:amd64				install
+libjavascriptcoregtk-4.0-18:amd64		install
+libjbig-dev:amd64				install
+libjbig0:amd64					install
+libjbig2dec0:amd64				install
+libjpeg-dev:amd64				install
+libjpeg-turbo8:amd64				install
+libjpeg-turbo8-dev:amd64			install
+libjpeg8:amd64					install
+libjpeg8-dev:amd64				install
+libjs-jquery					install
+libjs-jquery-hotkeys				install
+libjs-jquery-isonscreen				install
+libjs-jquery-metadata				install
+libjs-jquery-tablesorter			install
+libjs-jquery-throttle-debounce			install
+libjs-jquery-ui					install
+libjson-c-dev:amd64				install
+libjson-c4:amd64				install
+libjson-glib-1.0-0:amd64			install
+libjson-glib-1.0-common				install
+libjsoncpp-dev:amd64				install
+libjsoncpp1:amd64				install
+libjxr0:amd64					install
+libk5crypto3:amd64				install
+libkeyutils1:amd64				install
+libklibc:amd64					install
+libkml-dev:amd64				install
+libkmlbase1:amd64				install
+libkmlconvenience1:amd64			install
+libkmldom1:amd64				install
+libkmlengine1:amd64				install
+libkmlregionator1:amd64				install
+libkmlxsd1:amd64				install
+libkmod2:amd64					install
+libkpathsea6:amd64				install
+libkrb5-26-heimdal:amd64			install
+libkrb5-3:amd64					install
+libkrb5support0:amd64				install
+libksba8:amd64					install
+liblab-gamut1:amd64				install
+liblapack-dev:amd64				install
+liblapack3:amd64				install
+liblcms2-2:amd64				install
+liblcms2-utils					install
+libldap-2.4-2:amd64				install
+libldap-common					install
+libldb2:amd64					install
+liblept5:amd64					install
+liblilv-0-0:amd64				install
+libllvm10:amd64					install
+libllvm12:amd64					install
+libllvm9:amd64					install
+liblmdb0:amd64					install
+liblocale-gettext-perl				install
+liblouis-data					install
+liblouis20:amd64				install
+liblouisutdml-bin				install
+liblouisutdml-data				install
+liblouisutdml9:amd64				install
+liblsan0:amd64					install
+libltdl-dev:amd64				install
+libltdl7:amd64					install
+liblwp-mediatypes-perl				install
+liblwp-protocol-https-perl			install
+liblz4-1:amd64					install
+liblz4-dev:amd64				install
+liblzma-dev:amd64				install
+liblzma5:amd64					install
+liblzo2-2:amd64					install
+libmagic-mgc					install
+libmagic1:amd64					install
+libmailtools-perl				install
+libmaxminddb0:amd64				install
+libmbim-glib4:amd64				install
+libmbim-proxy					install
+libmediaart-2.0-0:amd64				install
+libminizip-dev:amd64				install
+libminizip1:amd64				install
+libmm-glib0:amd64				install
+libmnl0:amd64					install
+libmount-dev:amd64				install
+libmount1:amd64					install
+libmozjs-68-0:amd64				install
+libmp3lame0:amd64				install
+libmpc3:amd64					install
+libmpdec2:amd64					install
+libmpfr6:amd64					install
+libmpg123-0:amd64				install
+libmpx2:amd64					install
+libmtdev1:amd64					install
+libmtp-common					install
+libmtp-runtime					install
+libmtp9:amd64					install
+libmutter-6-0:amd64				install
+libmysofa1:amd64				install
+libmysqlclient-dev				install
+libmysqlclient21:amd64				install
+libnautilus-extension1a:amd64			install
+libncurses6:amd64				install
+libncursesw6:amd64				install
+libndp0:amd64					install
+libnet-dbus-perl				install
+libnet-http-perl				install
+libnet-smtp-ssl-perl				install
+libnet-ssleay-perl				install
+libnetcdf-c++4					install
+libnetcdf-cxx-legacy-dev			install
+libnetcdf-dev					install
+libnetcdf15:amd64				install
+libnetfilter-conntrack3:amd64			install
+libnetplan0:amd64				install
+libnettle7:amd64				install
+libnewt0.52:amd64				install
+libnfnetlink0:amd64				install
+libnfs13:amd64					install
+libnftnl11:amd64				install
+libnghttp2-14:amd64				install
+libnl-3-200:amd64				install
+libnl-3-dev:amd64				install
+libnl-genl-3-200:amd64				install
+libnl-route-3-200:amd64				install
+libnl-route-3-dev:amd64				install
+libnm0:amd64					install
+libnma0:amd64					install
+libnorm1:amd64					install
+libnotify-bin					install
+libnotify4:amd64				install
+libnpth0:amd64					install
+libnspr4:amd64					install
+libnss-mdns:amd64				install
+libnss-systemd:amd64				install
+libnss3:amd64					install
+libntfs-3g883					install
+libnuma-dev:amd64				install
+libnuma1:amd64					install
+libodbc1:amd64					install
+libogdi-dev					install
+libogdi4.1					install
+libogg-dev:amd64				install
+libogg0:amd64					install
+libopenal-data					install
+libopenal1:amd64				install
+libopencv-calib3d-dev:amd64			install
+libopencv-calib3d4.2:amd64			install
+libopencv-contrib-dev:amd64			install
+libopencv-contrib4.2:amd64			install
+libopencv-core-dev:amd64			install
+libopencv-core4.2:amd64				install
+libopencv-dev					install
+libopencv-dnn-dev:amd64				install
+libopencv-dnn4.2:amd64				install
+libopencv-features2d-dev:amd64			install
+libopencv-features2d4.2:amd64			install
+libopencv-flann-dev:amd64			install
+libopencv-flann4.2:amd64			install
+libopencv-highgui-dev:amd64			install
+libopencv-highgui4.2:amd64			install
+libopencv-imgcodecs-dev:amd64			install
+libopencv-imgcodecs4.2:amd64			install
+libopencv-imgproc-dev:amd64			install
+libopencv-imgproc4.2:amd64			install
+libopencv-ml-dev:amd64				install
+libopencv-ml4.2:amd64				install
+libopencv-objdetect-dev:amd64			install
+libopencv-objdetect4.2:amd64			install
+libopencv-photo-dev:amd64			install
+libopencv-photo4.2:amd64			install
+libopencv-shape-dev:amd64			install
+libopencv-shape4.2:amd64			install
+libopencv-stitching-dev:amd64			install
+libopencv-stitching4.2:amd64			install
+libopencv-superres-dev:amd64			install
+libopencv-superres4.2:amd64			install
+libopencv-ts-dev:amd64				install
+libopencv-video-dev:amd64			install
+libopencv-video4.2:amd64			install
+libopencv-videoio-dev:amd64			install
+libopencv-videoio4.2:amd64			install
+libopencv-videostab-dev:amd64			install
+libopencv-videostab4.2:amd64			install
+libopencv-viz-dev:amd64				install
+libopencv-viz4.2:amd64				install
+libopencv4.2-java				install
+libopencv4.2-jni				install
+libopenexr-dev					install
+libopenexr24:amd64				install
+libopengl-dev:amd64				install
+libopengl0:amd64				install
+libopenjp2-7:amd64				install
+libopenjp2-7-dev				install
+libopenmpi-dev:amd64				install
+libopenmpi3:amd64				install
+libopenmpt0:amd64				install
+libopenni-dev					install
+libopenni-sensor-pointclouds0			install
+libopenni0					install
+libopenni2-0					install
+libopenni2-dev					install
+libopus0:amd64					install
+liborc-0.4-0:amd64				install
+libp11-kit0:amd64				install
+libpackagekit-glib2-18:amd64			install
+libpam-cap:amd64				install
+libpam-fprintd:amd64				install
+libpam-gnome-keyring:amd64			install
+libpam-modules:amd64				install
+libpam-modules-bin				install
+libpam-runtime					install
+libpam-systemd:amd64				install
+libpam0g:amd64					install
+libpango-1.0-0:amd64				install
+libpangocairo-1.0-0:amd64			install
+libpangoft2-1.0-0:amd64				install
+libpangomm-1.4-1v5:amd64			install
+libpangoxft-1.0-0:amd64				install
+libpaper-utils					install
+libpaper1:amd64					install
+libparted-fs-resize0:amd64			install
+libparted2:amd64				install
+libpathplan4:amd64				install
+libpcap0.8:amd64				install
+libpcap0.8-dev:amd64				install
+libpcaudio0:amd64				install
+libpci3:amd64					install
+libpciaccess0:amd64				install
+libpcl-apps1.10:amd64				install
+libpcl-common1.10:amd64				install
+libpcl-dev					install
+libpcl-features1.10:amd64			install
+libpcl-filters1.10:amd64			install
+libpcl-io1.10:amd64				install
+libpcl-kdtree1.10:amd64				install
+libpcl-keypoints1.10:amd64			install
+libpcl-ml1.10:amd64				install
+libpcl-octree1.10:amd64				install
+libpcl-outofcore1.10:amd64			install
+libpcl-people1.10:amd64				install
+libpcl-recognition1.10:amd64			install
+libpcl-registration1.10:amd64			install
+libpcl-sample-consensus1.10:amd64		install
+libpcl-search1.10:amd64				install
+libpcl-segmentation1.10:amd64			install
+libpcl-stereo1.10:amd64				install
+libpcl-surface1.10:amd64			install
+libpcl-tracking1.10:amd64			install
+libpcl-visualization1.10:amd64			install
+libpcre16-3:amd64				install
+libpcre2-16-0:amd64				install
+libpcre2-32-0:amd64				install
+libpcre2-8-0:amd64				install
+libpcre2-dev:amd64				install
+libpcre2-posix2:amd64				install
+libpcre3:amd64					install
+libpcre3-dev:amd64				install
+libpcre32-3:amd64				install
+libpcrecpp0v5:amd64				install
+libpcsclite1:amd64				install
+libpeas-1.0-0:amd64				install
+libpeas-common					install
+libperl5.30:amd64				install
+libpgm-5.2-0:amd64				install
+libphonenumber7:amd64				install
+libpinyin-data:amd64				install
+libpinyin13:amd64				install
+libpipeline1:amd64				install
+libpixman-1-0:amd64				install
+libpkcs11-helper1:amd64				install
+libplist3:amd64					install
+libplymouth5:amd64				install
+libpmix2:amd64					install
+libpng-dev:amd64				install
+libpng-tools					install
+libpng16-16:amd64				install
+libpolkit-agent-1-0:amd64			install
+libpolkit-gobject-1-0:amd64			install
+libpoppler-cpp0v5:amd64				install
+libpoppler-dev:amd64				install
+libpoppler-glib8:amd64				install
+libpoppler-private-dev:amd64			install
+libpoppler97:amd64				install
+libpopt0:amd64					install
+libpostproc55:amd64				install
+libpq-dev					install
+libpq5:amd64					install
+libprocps8:amd64				install
+libproj-dev:amd64				install
+libproj15:amd64					install
+libprotobuf17:amd64				install
+libproxy1-plugin-gsettings:amd64		install
+libproxy1-plugin-networkmanager:amd64		install
+libproxy1v5:amd64				install
+libpsl5:amd64					install
+libpsm-infinipath1				install
+libpsm2-2					install
+libpthread-stubs0-dev:amd64			install
+libpulse-dev:amd64				install
+libpulse-mainloop-glib0:amd64			install
+libpulse0:amd64					install
+libpulsedsp:amd64				install
+libpwquality-common				install
+libpwquality1:amd64				install
+libpyside2-dev					install
+libpyside2-py3-5.14				install
+libpython2-stdlib:amd64				install
+libpython2.7-minimal:amd64			install
+libpython2.7-stdlib:amd64			install
+libpython3-dev:amd64				install
+libpython3-stdlib:amd64				install
+libpython3.8:amd64				install
+libpython3.8-dev:amd64				install
+libpython3.8-minimal:amd64			install
+libpython3.8-stdlib:amd64			install
+libqhull-dev:amd64				install
+libqhull-r7:amd64				install
+libqhull7:amd64					install
+libqmi-glib5:amd64				install
+libqmi-proxy					install
+libqpdf26:amd64					install
+libqt5concurrent5:amd64				install
+libqt5core5a:amd64				install
+libqt5dbus5:amd64				install
+libqt5designer5:amd64				install
+libqt5designercomponents5:amd64			install
+libqt5gui5:amd64				install
+libqt5help5:amd64				install
+libqt5network5:amd64				install
+libqt5opengl5:amd64				install
+libqt5opengl5-dev:amd64				install
+libqt5positioning5:amd64			install
+libqt5printsupport5:amd64			install
+libqt5qml5:amd64				install
+libqt5quick5:amd64				install
+libqt5quickparticles5:amd64			install
+libqt5quickshapes5:amd64			install
+libqt5quicktest5:amd64				install
+libqt5quickwidgets5:amd64			install
+libqt5sensors5:amd64				install
+libqt5sql5:amd64				install
+libqt5sql5-sqlite:amd64				install
+libqt5svg5:amd64				install
+libqt5test5:amd64				install
+libqt5webchannel5:amd64				install
+libqt5webkit5:amd64				install
+libqt5webkit5-dev:amd64				install
+libqt5widgets5:amd64				install
+libqt5x11extras5:amd64				install
+libqt5xml5:amd64				install
+libquadmath0:amd64				install
+libraw1394-11:amd64				install
+libraw1394-dev:amd64				install
+libraw1394-tools				install
+libraw19:amd64					install
+librdmacm1:amd64				install
+libreadline8:amd64				install
+librest-0.7-0:amd64				install
+librhash0:amd64					install
+libroken18-heimdal:amd64			install
+librsvg2-2:amd64				install
+librsvg2-common:amd64				install
+librtmp1:amd64					install
+librubberband2:amd64				install
+librygel-core-2.6-2:amd64			install
+librygel-db-2.6-2:amd64				install
+librygel-renderer-2.6-2:amd64			install
+librygel-server-2.6-2:amd64			install
+libsamplerate0:amd64				install
+libsane:amd64					install
+libsane-common					install
+libsane-hpaio:amd64				install
+libsasl2-2:amd64				install
+libsasl2-modules:amd64				install
+libsasl2-modules-db:amd64			install
+libsbc1:amd64					install
+libsdl2-2.0-0:amd64				install
+libsdl2-dev:amd64				install
+libseccomp2:amd64				install
+libsecret-1-0:amd64				install
+libsecret-common				install
+libselinux1:amd64				install
+libselinux1-dev:amd64				install
+libsemanage-common				install
+libsemanage1:amd64				install
+libsensors-config				install
+libsensors5:amd64				install
+libsepol1:amd64					install
+libsepol1-dev:amd64				install
+libserd-0-0:amd64				install
+libshiboken2-dev				install
+libshiboken2-py3-5.14				install
+libshine3:amd64					install
+libshout3:amd64					install
+libsigc++-2.0-0v5:amd64				install
+libsigsegv2:amd64				install
+libslang2:amd64					install
+libsm-dev:amd64					install
+libsm6:amd64					install
+libsmartcols1:amd64				install
+libsmbclient:amd64				install
+libsmbios-c2					install
+libsnapd-glib1:amd64				install
+libsnappy1v5:amd64				install
+libsndfile1:amd64				install
+libsndio-dev:amd64				install
+libsndio7.0:amd64				install
+libsnmp-base					install
+libsnmp35:amd64					install
+libsocket++1:amd64				install
+libsodium23:amd64				install
+libsonic0:amd64					install
+libsord-0-0:amd64				install
+libsoup-gnome2.4-1:amd64			install
+libsoup2.4-1:amd64				install
+libsoxr0:amd64					install
+libspatialite-dev:amd64				install
+libspatialite7:amd64				install
+libspdlog-dev					install
+libspdlog1					install
+libspectre1:amd64				install
+libspeechd2:amd64				install
+libspeex1:amd64					install
+libspeexdsp1:amd64				install
+libsqlite3-0:amd64				install
+libsqlite3-dev:amd64				install
+libsratom-0-0:amd64				install
+libss2:amd64					install
+libssh-4:amd64					install
+libssh-dev:amd64				install
+libssh-gcrypt-4:amd64				install
+libssl-dev:amd64				install
+libssl1.1:amd64					install
+libstartup-notification0:amd64			install
+libstdc++-7-dev:amd64				install
+libstdc++-9-dev:amd64				install
+libstdc++6:amd64				install
+libstemmer0d:amd64				install
+libsuperlu-dev:amd64				install
+libsuperlu5:amd64				install
+libswresample-dev:amd64				install
+libswresample3:amd64				install
+libswscale-dev:amd64				install
+libswscale5:amd64				install
+libsynctex2:amd64				install
+libsysmetrics1:amd64				install
+libsystemd0:amd64				install
+libsz2:amd64					install
+libtag1v5:amd64					install
+libtag1v5-vanilla:amd64				install
+libtalloc2:amd64				install
+libtasn1-6:amd64				install
+libtbb-dev:amd64				install
+libtbb2:amd64					install
+libtcl8.6:amd64					install
+libtdb1:amd64					install
+libteamdctl0:amd64				install
+libtepl-4-0:amd64				install
+libtesseract4:amd64				install
+libtevent0:amd64				install
+libtext-charwidth-perl				install
+libtext-iconv-perl				install
+libtext-wrapi18n-perl				install
+libthai-data					install
+libthai0:amd64					install
+libtheora-dev:amd64				install
+libtheora0:amd64				install
+libtie-ixhash-perl				install
+libtiff-dev:amd64				install
+libtiff5:amd64					install
+libtiffxx5:amd64				install
+libtimedate-perl				install
+libtinfo6:amd64					install
+libtinyxml-dev:amd64				install
+libtinyxml2-6a:amd64				install
+libtinyxml2-dev:amd64				install
+libtinyxml2.6.2v5:amd64				install
+libtk8.6:amd64					install
+libtool						install
+libtotem-plparser-common			install
+libtotem-plparser18:amd64			install
+libtracker-control-2.0-0:amd64			install
+libtracker-miner-2.0-0:amd64			install
+libtracker-sparql-2.0-0:amd64			install
+libtry-tiny-perl				install
+libtsan0:amd64					install
+libtss2-esys0					install
+libtwolame0:amd64				install
+libu2f-udev					install
+libubsan0:amd64					install
+libubsan1:amd64					install
+libuchardet0:amd64				install
+libudev-dev:amd64				install
+libudev1:amd64					install
+libudisks2-0:amd64				install
+libunistring2:amd64				install
+libunity-protocol-private0:amd64		install
+libunity-scopes-json-def-desktop		install
+libunity9:amd64					install
+libunwind8:amd64				install
+libupower-glib3:amd64				install
+liburi-perl					install
+liburiparser-dev				install
+liburiparser1:amd64				install
+libusb-1.0-0:amd64				install
+libusbmuxd6:amd64				install
+libuuid1:amd64					install
+libuv1:amd64					install
+libv4l-0:amd64					install
+libv4lconvert0:amd64				install
+libva-drm2:amd64				install
+libva-x11-2:amd64				install
+libva2:amd64					install
+libvdpau1:amd64					install
+libvidstab1.1:amd64				install
+libvisual-0.4-0:amd64				install
+libvolume-key1					install
+libvorbis0a:amd64				install
+libvorbisenc2:amd64				install
+libvorbisfile3:amd64				install
+libvpx6:amd64					install
+libvte-2.91-0:amd64				install
+libvte-2.91-common				install
+libvtk6.3					install
+libvtk7-dev					install
+libvtk7-java					install
+libvtk7-jni					install
+libvtk7-qt-dev					install
+libvtk7.1p					install
+libvtk7.1p-qt					install
+libvulkan-dev:amd64				install
+libvulkan1:amd64				install
+libwacom-bin					install
+libwacom-common					install
+libwacom2:amd64					install
+libwavpack1:amd64				install
+libwayland-bin					install
+libwayland-client0:amd64			install
+libwayland-cursor0:amd64			install
+libwayland-dev:amd64				install
+libwayland-egl1:amd64				install
+libwayland-server0:amd64			install
+libwbclient0:amd64				install
+libwebkit2gtk-4.0-37:amd64			install
+libwebp-dev:amd64				install
+libwebp6:amd64					install
+libwebpdemux2:amd64				install
+libwebpmux3:amd64				install
+libwebrtc-audio-processing1:amd64		install
+libwhoopsie-preferences0			install
+libwhoopsie0:amd64				install
+libwind0-heimdal:amd64				install
+libwmf0.2-7:amd64				install
+libwmf0.2-7-gtk					install
+libwnck-3-0:amd64				install
+libwnck-3-common				install
+libwoff1:amd64					install
+libwrap0:amd64					install
+libwww-perl					install
+libwww-robotrules-perl				install
+libx11-6:amd64					install
+libx11-data					install
+libx11-dev:amd64				install
+libx11-protocol-perl				install
+libx11-xcb1:amd64				install
+libx264-155:amd64				install
+libx265-179:amd64				install
+libxatracker2:amd64				install
+libxau-dev:amd64				install
+libxau6:amd64					install
+libxaw7:amd64					install
+libxaw7-dev:amd64				install
+libxcb-dri2-0:amd64				install
+libxcb-dri3-0:amd64				install
+libxcb-glx0:amd64				install
+libxcb-icccm4:amd64				install
+libxcb-image0:amd64				install
+libxcb-keysyms1:amd64				install
+libxcb-present0:amd64				install
+libxcb-randr0:amd64				install
+libxcb-render-util0:amd64			install
+libxcb-render0:amd64				install
+libxcb-res0:amd64				install
+libxcb-shape0:amd64				install
+libxcb-shm0:amd64				install
+libxcb-sync1:amd64				install
+libxcb-util1:amd64				install
+libxcb-xfixes0:amd64				install
+libxcb-xinerama0:amd64				install
+libxcb-xinput0:amd64				install
+libxcb-xkb1:amd64				install
+libxcb-xv0:amd64				install
+libxcb1:amd64					install
+libxcb1-dev:amd64				install
+libxcomposite1:amd64				install
+libxcursor-dev:amd64				install
+libxcursor1:amd64				install
+libxdamage1:amd64				install
+libxdmcp-dev:amd64				install
+libxdmcp6:amd64					install
+libxerces-c-dev					install
+libxerces-c3.2:amd64				install
+libxext-dev:amd64				install
+libxext6:amd64					install
+libxfixes-dev:amd64				install
+libxfixes3:amd64				install
+libxfont2:amd64					install
+libxft-dev:amd64				install
+libxft2:amd64					install
+libxi-dev:amd64					install
+libxi6:amd64					install
+libxinerama-dev:amd64				install
+libxinerama1:amd64				install
+libxkbcommon-dev:amd64				install
+libxkbcommon-x11-0:amd64			install
+libxkbcommon0:amd64				install
+libxkbfile1:amd64				install
+libxklavier16:amd64				install
+libxml-parser-perl				install
+libxml-twig-perl				install
+libxml-xpathengine-perl				install
+libxml2:amd64					install
+libxml2-dev:amd64				install
+libxml2-utils					install
+libxmlb1:amd64					install
+libxmu-dev:amd64				install
+libxmu-headers					install
+libxmu6:amd64					install
+libxmuu1:amd64					install
+libxnvctrl0:amd64				install
+libxpm-dev:amd64				install
+libxpm4:amd64					install
+libxrandr-dev:amd64				install
+libxrandr2:amd64				install
+libxrender-dev:amd64				install
+libxrender1:amd64				install
+libxres1:amd64					install
+libxshmfence1:amd64				install
+libxslt1.1:amd64				install
+libxss-dev:amd64				install
+libxss1:amd64					install
+libxt-dev:amd64					install
+libxt6:amd64					install
+libxtables12:amd64				install
+libxtst6:amd64					install
+libxv-dev:amd64					install
+libxv1:amd64					install
+libxvidcore4:amd64				install
+libxvmc1:amd64					install
+libxxf86dga1:amd64				install
+libxxf86vm-dev:amd64				install
+libxxf86vm1:amd64				install
+libyaml-0-2:amd64				install
+libyaml-dev:amd64				install
+libyelp0:amd64					install
+libzip-dev:amd64				install
+libzip5:amd64					install
+libzmq5:amd64					install
+libzstd-dev:amd64				install
+libzstd1:amd64					install
+libzvbi-common					install
+libzvbi0:amd64					install
+libzzip-0-13:amd64				install
+linux-base					install
+linux-firmware					install
+linux-generic-hwe-20.04				install
+linux-headers-5.4.0-42				install
+linux-headers-5.4.0-42-generic			install
+linux-headers-generic-hwe-20.04			install
+linux-image-5.4.0-42-generic			install
+linux-image-generic-hwe-20.04			install
+linux-libc-dev:amd64				install
+linux-modules-5.4.0-42-generic			install
+linux-modules-extra-5.4.0-42-generic		install
+linux-sound-base				install
+linuxqq						install
+locales						install
+login						install
+logrotate					install
+logsave						install
+lsb-base					install
+lsb-release					install
+lshw						install
+lsof						install
+ltrace						install
+lz4						install
+m4						install
+make						install
+man-db						install
+manpages					install
+manpages-dev					install
+mawk						install
+memtest86+					install
+mesa-va-drivers:amd64				install
+mesa-vdpau-drivers:amd64			install
+mesa-vulkan-drivers:amd64			install
+mime-support					install
+mlocate						install
+mobile-broadband-provider-info			install
+modemmanager					install
+mokutil						install
+mount						install
+mousetweaks					install
+mpi-default-bin					install
+mpi-default-dev					install
+mscompress					install
+mtools						install
+mtr-tiny					install
+mutter						install
+mutter-common					install
+mysql-common					install
+nano						install
+nautilus					install
+nautilus-data					install
+nautilus-extension-gnome-terminal		install
+nautilus-sendto					install
+nautilus-share					install
+ncurses-base					install
+ncurses-bin					install
+ncurses-term					install
+net-tools					install
+netbase						install
+netcat-openbsd					install
+netplan.io					install
+network-manager					install
+network-manager-config-connectivity-ubuntu	install
+network-manager-gnome				install
+network-manager-openvpn				install
+network-manager-openvpn-gnome			install
+network-manager-pptp				install
+network-manager-pptp-gnome			install
+networkd-dispatcher				install
+ntfs-3g						install
+ocl-icd-libopencl1:amd64			install
+odbcinst					install
+odbcinst1debian2:amd64				install
+opencv-data					install
+openmpi-bin					install
+openmpi-common					install
+openni-utils					install
+openprinting-ppds				install
+openssh-client					install
+openssh-server					install
+openssh-sftp-server				install
+openssl						install
+openvpn						install
+orca						install
+os-prober					install
+p11-kit						install
+p11-kit-modules:amd64				install
+packagekit					install
+packagekit-tools				install
+parted						install
+passwd						install
+patch						install
+pci.ids						install
+pciutils					install
+pcmciautils					install
+perl						install
+perl-base					install
+perl-modules-5.30				install
+perl-openssl-defaults:amd64			install
+pinentry-curses					install
+pinentry-gnome3					install
+pkg-config					install
+plymouth					install
+plymouth-label					install
+plymouth-theme-spinner				install
+plymouth-theme-ubuntu-text			install
+policykit-1					install
+policykit-desktop-privileges			install
+poppler-data					install
+poppler-utils					install
+popularity-contest				install
+powermgmt-base					install
+ppp						install
+pptp-linux					install
+printer-driver-brlaser				install
+printer-driver-c2esp				install
+printer-driver-foo2zjs				install
+printer-driver-foo2zjs-common			install
+printer-driver-hpcups				install
+printer-driver-m2300w				install
+printer-driver-min12xxw				install
+printer-driver-pnm2ppa				install
+printer-driver-postscript-hp			install
+printer-driver-ptouch				install
+printer-driver-pxljr				install
+printer-driver-sag-gdi				install
+printer-driver-splix				install
+procps						install
+proj-bin					install
+proj-data					install
+psmisc						install
+publicsuffix					install
+pulseaudio					install
+pulseaudio-module-bluetooth			install
+pulseaudio-utils				install
+pydocstyle					install
+pyflakes					install
+pyflakes3					install
+pyqt5-dev					install
+python-apt-common				install
+python-matplotlib-data				install
+python-pip-whl					install
+python-pkg-resources				install
+python-pyflakes					install
+python2						install
+python2-minimal					install
+python2.7					install
+python2.7-minimal				install
+python3						install
+python3-apport					install
+python3-apt					install
+python3-aptdaemon				install
+python3-aptdaemon.gtk3widgets			install
+python3-argcomplete				install
+python3-atomicwrites				install
+python3-attr					install
+python3-autobahn				install
+python3-automat					install
+python3-blinker					install
+python3-brlapi:amd64				install
+python3-bs4					install
+python3-cairo:amd64				install
+python3-catkin-pkg				install
+python3-catkin-pkg-modules			install
+python3-cbor					install
+python3-certifi					install
+python3-cffi-backend				install
+python3-chardet					install
+python3-click					install
+python3-colcon-argcomplete			install
+python3-colcon-bash				install
+python3-colcon-cd				install
+python3-colcon-cmake				install
+python3-colcon-common-extensions		install
+python3-colcon-core				install
+python3-colcon-defaults				install
+python3-colcon-devtools				install
+python3-colcon-library-path			install
+python3-colcon-metadata				install
+python3-colcon-notification			install
+python3-colcon-output				install
+python3-colcon-package-information		install
+python3-colcon-package-selection		install
+python3-colcon-parallel-executor		install
+python3-colcon-pkg-config			install
+python3-colcon-powershell			install
+python3-colcon-python-setup-py			install
+python3-colcon-recursive-crawl			install
+python3-colcon-ros				install
+python3-colcon-test-result			install
+python3-colcon-zsh				install
+python3-collada					install
+python3-colorama				install
+python3-commandnotfound				install
+python3-constantly				install
+python3-cov-core				install
+python3-coverage				install
+python3-cryptography				install
+python3-cups					install
+python3-cupshelpers				install
+python3-cycler					install
+python3-dateutil				install
+python3-dbus					install
+python3-debconf					install
+python3-debian					install
+python3-defer					install
+python3-dev					install
+python3-distlib					install
+python3-distro					install
+python3-distro-info				install
+python3-distupgrade				install
+python3-distutils				install
+python3-docutils				install
+python3-empy					install
+python3-entrypoints				install
+python3-flake8					install
+python3-gdbm:amd64				install
+python3-gi					install
+python3-gi-cairo				install
+python3-hamcrest				install
+python3-html5lib				install
+python3-httplib2				install
+python3-hyperlink				install
+python3-ibus-1.0				install
+python3-idna					install
+python3-ifcfg					install
+python3-importlib-metadata			install
+python3-incremental				install
+python3-jwt					install
+python3-keyring					install
+python3-kiwisolver				install
+python3-lark					install
+python3-launchpadlib				install
+python3-lazr.restfulclient			install
+python3-lazr.uri				install
+python3-lib2to3					install
+python3-louis					install
+python3-lxml:amd64				install
+python3-lz4					install
+python3-macaroonbakery				install
+python3-matplotlib				install
+python3-mccabe					install
+python3-minimal					install
+python3-mock					install
+python3-more-itertools				install
+python3-mpi4py					install
+python3-nacl					install
+python3-netifaces				install
+python3-nose2					install
+python3-notify2					install
+python3-numpy					install
+python3-oauthlib				install
+python3-olefile					install
+python3-openssl					install
+python3-packaging				install
+python3-pbr					install
+python3-pexpect					install
+python3-pil:amd64				install
+python3-pip					install
+python3-pkg-resources				install
+python3-pluggy					install
+python3-png					install
+python3-problem-report				install
+python3-protobuf				install
+python3-psutil					install
+python3-ptyprocess				install
+python3-py					install
+python3-pyasn1					install
+python3-pyasn1-modules				install
+python3-pyatspi					install
+python3-pycodestyle				install
+python3-pydocstyle				install
+python3-pydot					install
+python3-pyflakes				install
+python3-pygments				install
+python3-pymacaroons				install
+python3-pyparsing				install
+python3-pyqrcode				install
+python3-pyqt5					install
+python3-pyqt5.qtsvg				install
+python3-pyside2.qtcore				install
+python3-pyside2.qtgui				install
+python3-pyside2.qtsvg				install
+python3-pyside2.qtwidgets			install
+python3-pytest					install
+python3-pytest-cov				install
+python3-renderpm:amd64				install
+python3-reportlab				install
+python3-reportlab-accel:amd64			install
+python3-requests				install
+python3-requests-unixsocket			install
+python3-rfc3339					install
+python3-roman					install
+python3-rosdep					install
+python3-rosdep-modules				install
+python3-rosdistro				install
+python3-rosdistro-modules			install
+python3-rospkg					install
+python3-rospkg-modules				install
+python3-secretstorage				install
+python3-service-identity			install
+python3-setuptools				install
+python3-simplejson				install
+python3-sip					install
+python3-sip-dev					install
+python3-six					install
+python3-snappy					install
+python3-snowballstemmer				install
+python3-software-properties			install
+python3-soupsieve				install
+python3-speechd					install
+python3-systemd					install
+python3-talloc:amd64				install
+python3-tk:amd64				install
+python3-trie					install
+python3-twisted					install
+python3-twisted-bin:amd64			install
+python3-txaio					install
+python3-tz					install
+python3-u-msgpack				install
+python3-ubjson					install
+python3-update-manager				install
+python3-urllib3					install
+python3-vcstool					install
+python3-venv					install
+python3-vtk7					install
+python3-wadllib					install
+python3-wcwidth					install
+python3-webencodings				install
+python3-wheel					install
+python3-wsaccel					install
+python3-xdg					install
+python3-xkit					install
+python3-yaml					install
+python3-zipp					install
+python3-zope.interface				install
+python3.8					install
+python3.8-dev					install
+python3.8-minimal				install
+python3.8-venv					install
+qdoc-qt5					install
+qhelpgenerator-qt5				install
+qt5-assistant					install
+qt5-gtk-platformtheme:amd64			install
+qt5-qmake:amd64					install
+qt5-qmake-bin					install
+qt5-qmltooling-plugins:amd64			install
+qtattributionsscanner-qt5			install
+qtbase5-dev:amd64				install
+qtbase5-dev-tools				install
+qtchooser					install
+qtdeclarative5-dev:amd64			install
+qtdeclarative5-dev-tools			install
+qttools5-dev:amd64				install
+qttools5-dev-tools				install
+qttools5-private-dev:amd64			install
+qttranslations5-l10n				install
+readline-common					install
+rfkill						install
+ros-foxy-ackermann-msgs				install
+ros-foxy-action-msgs				install
+ros-foxy-action-tutorials-cpp			install
+ros-foxy-action-tutorials-interfaces		install
+ros-foxy-action-tutorials-py			install
+ros-foxy-actionlib-msgs				install
+ros-foxy-ament-cmake				install
+ros-foxy-ament-cmake-auto			install
+ros-foxy-ament-cmake-copyright			install
+ros-foxy-ament-cmake-core			install
+ros-foxy-ament-cmake-cppcheck			install
+ros-foxy-ament-cmake-cpplint			install
+ros-foxy-ament-cmake-export-definitions		install
+ros-foxy-ament-cmake-export-dependencies	install
+ros-foxy-ament-cmake-export-include-directories	install
+ros-foxy-ament-cmake-export-interfaces		install
+ros-foxy-ament-cmake-export-libraries		install
+ros-foxy-ament-cmake-export-link-flags		install
+ros-foxy-ament-cmake-export-targets		install
+ros-foxy-ament-cmake-flake8			install
+ros-foxy-ament-cmake-gmock			install
+ros-foxy-ament-cmake-gtest			install
+ros-foxy-ament-cmake-include-directories	install
+ros-foxy-ament-cmake-libraries			install
+ros-foxy-ament-cmake-lint-cmake			install
+ros-foxy-ament-cmake-pep257			install
+ros-foxy-ament-cmake-pytest			install
+ros-foxy-ament-cmake-python			install
+ros-foxy-ament-cmake-ros			install
+ros-foxy-ament-cmake-target-dependencies	install
+ros-foxy-ament-cmake-test			install
+ros-foxy-ament-cmake-uncrustify			install
+ros-foxy-ament-cmake-version			install
+ros-foxy-ament-cmake-xmllint			install
+ros-foxy-ament-copyright			install
+ros-foxy-ament-cppcheck				install
+ros-foxy-ament-cpplint				install
+ros-foxy-ament-flake8				install
+ros-foxy-ament-index-cpp			install
+ros-foxy-ament-index-python			install
+ros-foxy-ament-lint				install
+ros-foxy-ament-lint-auto			install
+ros-foxy-ament-lint-cmake			install
+ros-foxy-ament-lint-common			install
+ros-foxy-ament-package				install
+ros-foxy-ament-pep257				install
+ros-foxy-ament-uncrustify			install
+ros-foxy-ament-xmllint				install
+ros-foxy-angles					install
+ros-foxy-builtin-interfaces			install
+ros-foxy-class-loader				install
+ros-foxy-common-interfaces			install
+ros-foxy-composition				install
+ros-foxy-composition-interfaces			install
+ros-foxy-console-bridge-vendor			install
+ros-foxy-control-msgs				install
+ros-foxy-controller-interface			install
+ros-foxy-controller-manager			install
+ros-foxy-controller-manager-msgs		install
+ros-foxy-cv-bridge				install
+ros-foxy-demo-nodes-cpp				install
+ros-foxy-demo-nodes-cpp-native			install
+ros-foxy-demo-nodes-py				install
+ros-foxy-depthimage-to-laserscan		install
+ros-foxy-desktop				install
+ros-foxy-diagnostic-msgs			install
+ros-foxy-diff-drive-controller			install
+ros-foxy-domain-coordinator			install
+ros-foxy-dummy-map-server			install
+ros-foxy-dummy-robot-bringup			install
+ros-foxy-dummy-sensors				install
+ros-foxy-eigen3-cmake-module			install
+ros-foxy-example-interfaces			install
+ros-foxy-examples-rclcpp-minimal-action-client	install
+ros-foxy-examples-rclcpp-minimal-action-server	install
+ros-foxy-examples-rclcpp-minimal-client		install
+ros-foxy-examples-rclcpp-minimal-composition	install
+ros-foxy-examples-rclcpp-minimal-publisher	install
+ros-foxy-examples-rclcpp-minimal-service	install
+ros-foxy-examples-rclcpp-minimal-subscriber	install
+ros-foxy-examples-rclcpp-minimal-timer		install
+ros-foxy-examples-rclcpp-multithreaded-executor	install
+ros-foxy-examples-rclpy-executors		install
+ros-foxy-examples-rclpy-minimal-action-client	install
+ros-foxy-examples-rclpy-minimal-action-server	install
+ros-foxy-examples-rclpy-minimal-client		install
+ros-foxy-examples-rclpy-minimal-publisher	install
+ros-foxy-examples-rclpy-minimal-service		install
+ros-foxy-examples-rclpy-minimal-subscriber	install
+ros-foxy-fastcdr				install
+ros-foxy-fastrtps				install
+ros-foxy-fastrtps-cmake-module			install
+ros-foxy-foonathan-memory-vendor		install
+ros-foxy-geometry-msgs				install
+ros-foxy-geometry2				install
+ros-foxy-gmock-vendor				install
+ros-foxy-gtest-vendor				install
+ros-foxy-hardware-interface			install
+ros-foxy-image-geometry				install
+ros-foxy-image-tools				install
+ros-foxy-image-transport			install
+ros-foxy-interactive-markers			install
+ros-foxy-intra-process-demo			install
+ros-foxy-joint-state-broadcaster		install
+ros-foxy-joy					install
+ros-foxy-kdl-parser				install
+ros-foxy-laser-geometry				install
+ros-foxy-launch					install
+ros-foxy-launch-ros				install
+ros-foxy-launch-testing				install
+ros-foxy-launch-testing-ament-cmake		install
+ros-foxy-launch-testing-ros			install
+ros-foxy-launch-xml				install
+ros-foxy-launch-yaml				install
+ros-foxy-libcurl-vendor				install
+ros-foxy-libstatistics-collector		install
+ros-foxy-libyaml-vendor				install
+ros-foxy-lifecycle				install
+ros-foxy-lifecycle-msgs				install
+ros-foxy-logging-demo				install
+ros-foxy-map-msgs				install
+ros-foxy-message-filters			install
+ros-foxy-nav-msgs				install
+ros-foxy-orocos-kdl				install
+ros-foxy-osrf-pycommon				install
+ros-foxy-pcl-conversions			install
+ros-foxy-pcl-msgs				install
+ros-foxy-pendulum-control			install
+ros-foxy-pendulum-msgs				install
+ros-foxy-pluginlib				install
+ros-foxy-python-cmake-module			install
+ros-foxy-python-qt-binding			install
+ros-foxy-qt-dotgraph				install
+ros-foxy-qt-gui					install
+ros-foxy-qt-gui-cpp				install
+ros-foxy-qt-gui-py-common			install
+ros-foxy-quality-of-service-demo-cpp		install
+ros-foxy-quality-of-service-demo-py		install
+ros-foxy-rcl					install
+ros-foxy-rcl-action				install
+ros-foxy-rcl-interfaces				install
+ros-foxy-rcl-lifecycle				install
+ros-foxy-rcl-logging-spdlog			install
+ros-foxy-rcl-yaml-param-parser			install
+ros-foxy-rclcpp					install
+ros-foxy-rclcpp-action				install
+ros-foxy-rclcpp-components			install
+ros-foxy-rclcpp-lifecycle			install
+ros-foxy-rclpy					install
+ros-foxy-rcpputils				install
+ros-foxy-rcutils				install
+ros-foxy-realtime-tools				install
+ros-foxy-resource-retriever			install
+ros-foxy-rmw					install
+ros-foxy-rmw-dds-common				install
+ros-foxy-rmw-fastrtps-cpp			install
+ros-foxy-rmw-fastrtps-shared-cpp		install
+ros-foxy-rmw-implementation			install
+ros-foxy-rmw-implementation-cmake		install
+ros-foxy-robot-state-publisher			install
+ros-foxy-ros-base				install
+ros-foxy-ros-core				install
+ros-foxy-ros-environment			install
+ros-foxy-ros-workspace				install
+ros-foxy-ros2action				install
+ros-foxy-ros2bag				install
+ros-foxy-ros2cli				install
+ros-foxy-ros2component				install
+ros-foxy-ros2doctor				install
+ros-foxy-ros2interface				install
+ros-foxy-ros2launch				install
+ros-foxy-ros2lifecycle				install
+ros-foxy-ros2multicast				install
+ros-foxy-ros2node				install
+ros-foxy-ros2param				install
+ros-foxy-ros2pkg				install
+ros-foxy-ros2run				install
+ros-foxy-ros2service				install
+ros-foxy-ros2topic				install
+ros-foxy-rosbag2				install
+ros-foxy-rosbag2-compression			install
+ros-foxy-rosbag2-converter-default-plugins	install
+ros-foxy-rosbag2-cpp				install
+ros-foxy-rosbag2-storage			install
+ros-foxy-rosbag2-storage-default-plugins	install
+ros-foxy-rosbag2-transport			install
+ros-foxy-rosgraph-msgs				install
+ros-foxy-rosidl-adapter				install
+ros-foxy-rosidl-cmake				install
+ros-foxy-rosidl-default-generators		install
+ros-foxy-rosidl-default-runtime			install
+ros-foxy-rosidl-generator-c			install
+ros-foxy-rosidl-generator-cpp			install
+ros-foxy-rosidl-generator-py			install
+ros-foxy-rosidl-parser				install
+ros-foxy-rosidl-runtime-c			install
+ros-foxy-rosidl-runtime-cpp			install
+ros-foxy-rosidl-runtime-py			install
+ros-foxy-rosidl-typesupport-c			install
+ros-foxy-rosidl-typesupport-cpp			install
+ros-foxy-rosidl-typesupport-fastrtps-c		install
+ros-foxy-rosidl-typesupport-fastrtps-cpp	install
+ros-foxy-rosidl-typesupport-interface		install
+ros-foxy-rosidl-typesupport-introspection-c	install
+ros-foxy-rosidl-typesupport-introspection-cpp	install
+ros-foxy-rpyutils				install
+ros-foxy-rqt-action				install
+ros-foxy-rqt-common-plugins			install
+ros-foxy-rqt-console				install
+ros-foxy-rqt-graph				install
+ros-foxy-rqt-gui				install
+ros-foxy-rqt-gui-cpp				install
+ros-foxy-rqt-gui-py				install
+ros-foxy-rqt-image-view				install
+ros-foxy-rqt-msg				install
+ros-foxy-rqt-plot				install
+ros-foxy-rqt-publisher				install
+ros-foxy-rqt-py-common				install
+ros-foxy-rqt-py-console				install
+ros-foxy-rqt-reconfigure			install
+ros-foxy-rqt-service-caller			install
+ros-foxy-rqt-shell				install
+ros-foxy-rqt-srv				install
+ros-foxy-rqt-top				install
+ros-foxy-rqt-topic				install
+ros-foxy-rttest					install
+ros-foxy-rviz-assimp-vendor			install
+ros-foxy-rviz-common				install
+ros-foxy-rviz-default-plugins			install
+ros-foxy-rviz-ogre-vendor			install
+ros-foxy-rviz-rendering				install
+ros-foxy-rviz2					install
+ros-foxy-sdl2-vendor				install
+ros-foxy-sensor-msgs				install
+ros-foxy-shape-msgs				install
+ros-foxy-shared-queues-vendor			install
+ros-foxy-spdlog-vendor				install
+ros-foxy-sqlite3-vendor				install
+ros-foxy-sros2					install
+ros-foxy-sros2-cmake				install
+ros-foxy-statistics-msgs			install
+ros-foxy-std-msgs				install
+ros-foxy-std-srvs				install
+ros-foxy-stereo-msgs				install
+ros-foxy-tango-icons-vendor			install
+ros-foxy-teleop-twist-joy			install
+ros-foxy-teleop-twist-keyboard			install
+ros-foxy-tf2					install
+ros-foxy-tf2-bullet				install
+ros-foxy-tf2-eigen				install
+ros-foxy-tf2-geometry-msgs			install
+ros-foxy-tf2-kdl				install
+ros-foxy-tf2-msgs				install
+ros-foxy-tf2-py					install
+ros-foxy-tf2-ros				install
+ros-foxy-tf2-sensor-msgs			install
+ros-foxy-tf2-tools				install
+ros-foxy-tinyxml-vendor				install
+ros-foxy-tinyxml2-vendor			install
+ros-foxy-tlsf					install
+ros-foxy-tlsf-cpp				install
+ros-foxy-topic-monitor				install
+ros-foxy-tracetools				install
+ros-foxy-trajectory-msgs			install
+ros-foxy-turtlesim				install
+ros-foxy-uncrustify-vendor			install
+ros-foxy-unique-identifier-msgs			install
+ros-foxy-urdf					install
+ros-foxy-urdfdom				install
+ros-foxy-urdfdom-headers			install
+ros-foxy-vision-msgs				install
+ros-foxy-visualization-msgs			install
+ros-foxy-webots-ros2				install
+ros-foxy-webots-ros2-abb			install
+ros-foxy-webots-ros2-control			install
+ros-foxy-webots-ros2-core			install
+ros-foxy-webots-ros2-demos			install
+ros-foxy-webots-ros2-driver			install
+ros-foxy-webots-ros2-epuck			install
+ros-foxy-webots-ros2-examples			install
+ros-foxy-webots-ros2-importer			install
+ros-foxy-webots-ros2-mavic			install
+ros-foxy-webots-ros2-msgs			install
+ros-foxy-webots-ros2-tesla			install
+ros-foxy-webots-ros2-tiago			install
+ros-foxy-webots-ros2-turtlebot			install
+ros-foxy-webots-ros2-tutorials			install
+ros-foxy-webots-ros2-universal-robot		install
+ros-foxy-webots-ros2-ur-e-description		install
+ros-foxy-xacro					install
+ros-foxy-yaml-cpp-vendor			install
+ros-foxy-zstd-vendor				install
+rsync						install
+rsyslog						install
+rtkit						install
+rygel						install
+samba-libs:amd64				install
+sane-utils					install
+sbsigntool					install
+seahorse					install
+secureboot-db					install
+sed						install
+sensible-utils					install
+session-migration				install
+sgml-base					install
+sgml-data					install
+shared-mime-info				install
+shiboken2					install
+shim						install
+shim-signed					install
+sip-dev						install
+snapd						install
+software-properties-common			install
+software-properties-gtk				install
+sound-icons					install
+sound-theme-freedesktop				install
+speech-dispatcher				install
+speech-dispatcher-audio-plugins:amd64		install
+speech-dispatcher-espeak-ng			install
+spice-vdagent					install
+squashfs-tools					install
+ssh-import-id					install
+ssl-cert					install
+strace						install
+sudo						install
+switcheroo-control				install
+system-config-printer				install
+system-config-printer-common			install
+system-config-printer-udev			install
+systemd						install
+systemd-sysv					install
+systemd-timesyncd				install
+sysvinit-utils					install
+tar						install
+tcl						install
+tcl-dev:amd64					install
+tcl-vtk7					install
+tcl8.6						install
+tcl8.6-dev:amd64				install
+tcpdump						install
+telnet						install
+thermald					install
+time						install
+tint2						install
+tk						install
+tk-dev:amd64					install
+tk8.6						install
+tk8.6-blt2.5					install
+tk8.6-dev:amd64					install
+tpm-udev					install
+tracker						install
+tracker-extract					install
+tracker-miner-fs				install
+ttf-bitstream-vera				install
+tzdata						install
+ubuntu-advantage-tools				install
+ubuntu-desktop					install
+ubuntu-desktop-minimal				install
+ubuntu-docs					install
+ubuntu-drivers-common				install
+ubuntu-keyring					install
+ubuntu-minimal					install
+ubuntu-mono					install
+ubuntu-release-upgrader-core			install
+ubuntu-release-upgrader-gtk			install
+ubuntu-report					install
+ubuntu-session					install
+ubuntu-settings					install
+ubuntu-standard					install
+ubuntu-wallpapers				install
+ubuntu-wallpapers-focal				install
+ucf						install
+udev						install
+udisks2						install
+ufw						install
+unattended-upgrades				install
+uncrustify					install
+unixodbc-dev:amd64				install
+unzip						install
+update-inetd					install
+update-manager					install
+update-manager-core				install
+update-notifier					install
+update-notifier-common				install
+upower						install
+usb-modeswitch					install
+usb-modeswitch-data				install
+usb.ids						install
+usbmuxd						install
+usbutils					install
+util-linux					install
+uuid-dev:amd64					install
+uuid-runtime					install
+va-driver-all:amd64				install
+vdpau-driver-all:amd64				install
+vim						install
+vim-common					install
+vim-runtime					install
+vim-tiny					install
+vtk7						install
+wamerican					install
+wbritish					install
+webots						install
+wget						install
+whiptail					install
+whoopsie					install
+whoopsie-preferences				install
+wireless-regdb					install
+wireless-tools					install
+wpasupplicant					install
+x11-apps					install
+x11-common					install
+x11-session-utils				install
+x11-utils					install
+x11-xkb-utils					install
+x11-xserver-utils				install
+x11proto-core-dev				install
+x11proto-dev					install
+x11proto-input-dev				install
+x11proto-randr-dev				install
+x11proto-scrnsaver-dev				install
+x11proto-xext-dev				install
+x11proto-xf86vidmode-dev			install
+x11proto-xinerama-dev				install
+xauth						install
+xbitmaps					install
+xbrlapi						install
+xcursor-themes					install
+xdg-dbus-proxy					install
+xdg-desktop-portal				install
+xdg-desktop-portal-gtk				install
+xdg-user-dirs					install
+xdg-user-dirs-gtk				install
+xdg-utils					install
+xfonts-base					install
+xfonts-encodings				install
+xfonts-scalable					install
+xfonts-utils					install
+xinit						install
+xinput						install
+xkb-data					install
+xml-core					install
+xorg						install
+xorg-docs-core					install
+xorg-sgml-doctools				install
+xserver-common					install
+xserver-xephyr					install
+xserver-xorg					install
+xserver-xorg-core				install
+xserver-xorg-input-all				install
+xserver-xorg-input-libinput			install
+xserver-xorg-input-wacom			install
+xserver-xorg-legacy				install
+xserver-xorg-video-all				install
+xserver-xorg-video-amdgpu			install
+xserver-xorg-video-ati				install
+xserver-xorg-video-fbdev			install
+xserver-xorg-video-intel			install
+xserver-xorg-video-nouveau			install
+xserver-xorg-video-qxl				install
+xserver-xorg-video-radeon			install
+xserver-xorg-video-vesa				install
+xserver-xorg-video-vmware			install
+xtrans-dev					install
+xul-ext-ubufox					install
+xwayland					install
+xxd						install
+xz-utils					install
+yaru-theme-gnome-shell				install
+yaru-theme-gtk					install
+yaru-theme-icon					install
+yaru-theme-sound				install
+yelp						install
+yelp-xsl					install
+zenity						install
+zenity-common					install
+zip						install
+zlib1g:amd64					install
+zlib1g-dev:amd64				install
+scheduled tasks:
+Daemon services
+ [ + ]  acpid
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ + ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  network-manager
+ [ + ]  openvpn
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  pulseaudio-enable-autospawn
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ - ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  ssh
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  whoopsie
+ [ - ]  x11-common
+drivers:
+Module                  Size  Used by
+rfcomm                 81920  4
+cmac                   16384  3
+algif_hash             16384  1
+algif_skcipher         16384  1
+af_alg                 24576  6 algif_hash,algif_skcipher
+bnep                   24576  2
+nls_iso8859_1          16384  1
+uvcvideo               98304  0
+snd_hda_codec_realtek   122880  1
+amdgpu               4579328  13
+videobuf2_vmalloc      20480  1 uvcvideo
+videobuf2_memops       20480  1 videobuf2_vmalloc
+videobuf2_v4l2         24576  1 uvcvideo
+videobuf2_common       49152  2 videobuf2_v4l2,uvcvideo
+snd_hda_codec_generic    81920  1 snd_hda_codec_realtek
+snd_hda_codec_hdmi     61440  1
+snd_soc_dmic           16384  1
+ledtrig_audio          16384  2 snd_hda_codec_generic,snd_hda_codec_realtek
+videodev              225280  3 videobuf2_v4l2,uvcvideo,videobuf2_common
+snd_hda_intel          53248  8
+snd_intel_dspcfg       24576  1 snd_hda_intel
+amd_iommu_v2           20480  1 amdgpu
+mc                     53248  4 videodev,videobuf2_v4l2,uvcvideo,videobuf2_common
+snd_hda_codec         131072  4 snd_hda_codec_generic,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec_realtek
+gpu_sched              32768  1 amdgpu
+ath10k_pci             49152  0
+ttm                   106496  1 amdgpu
+snd_acp3x_pdm_dma      16384  1
+acp3x_rn               16384  1
+ath10k_core           475136  1 ath10k_pci
+snd_soc_core          245760  3 acp3x_rn,snd_soc_dmic,snd_acp3x_pdm_dma
+snd_hda_core           90112  5 snd_hda_codec_generic,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec,snd_hda_codec_realtek
+btusb                  57344  0
+drm_kms_helper        184320  1 amdgpu
+snd_compress           24576  1 snd_soc_core
+ath                    36864  1 ath10k_core
+btrtl                  24576  1 btusb
+ac97_bus               16384  1 snd_soc_core
+snd_hwdep              20480  1 snd_hda_codec
+snd_pcm_dmaengine      16384  1 snd_soc_core
+i2c_algo_bit           16384  1 amdgpu
+mac80211              843776  1 ath10k_core
+btbcm                  16384  1 btusb
+fb_sys_fops            16384  1 drm_kms_helper
+snd_pcm               106496  8 snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec,snd_soc_core,snd_hda_core,snd_acp3x_pdm_dma,snd_pcm_dmaengine
+btintel                24576  1 btusb
+syscopyarea            16384  1 drm_kms_helper
+snd_seq_midi           20480  0
+cfg80211              704512  3 ath,mac80211,ath10k_core
+sysfillrect            16384  1 drm_kms_helper
+snd_seq_midi_event     16384  1 snd_seq_midi
+bluetooth             581632  31 btrtl,btintel,btbcm,bnep,btusb,rfcomm
+sysimgblt              16384  1 drm_kms_helper
+snd_rawmidi            36864  1 snd_seq_midi
+edac_mce_amd           32768  0
+kvm_amd                98304  0
+snd_seq                69632  2 snd_seq_midi,snd_seq_midi_event
+ecdh_generic           16384  2 bluetooth
+rtsx_pci_ms            24576  0
+libarc4                16384  1 mac80211
+snd_seq_device         16384  3 snd_seq,snd_seq_midi,snd_rawmidi
+ecc                    28672  1 ecdh_generic
+ccp                    86016  1 kvm_amd
+snd_timer              36864  3 snd_seq,snd_pcm
+snd_rn_pci_acp3x       20480  0
+snd                    90112  29 snd_hda_codec_generic,snd_seq,snd_seq_device,snd_hda_codec_hdmi,snd_hwdep,snd_hda_intel,snd_hda_codec,snd_hda_codec_realtek,snd_timer,snd_compress,snd_soc_core,snd_pcm,snd_rawmidi
+joydev                 24576  0
+memstick               20480  1 rtsx_pci_ms
+kvm                   663552  1 kvm_amd
+snd_pci_acp3x          16384  0
+soundcore              16384  1 snd
+hid_multitouch         28672  0
+ideapad_laptop         20480  0
+input_leds             16384  0
+k10temp                16384  0
+crct10dif_pclmul       16384  1
+sparse_keymap          16384  1 ideapad_laptop
+ghash_clmulni_intel    16384  0
+aesni_intel           372736  4
+wmi_bmof               16384  0
+mac_hid                16384  0
+crypto_simd            16384  1 aesni_intel
+serio_raw              20480  0
+cryptd                 24576  3 crypto_simd,ghash_clmulni_intel
+glue_helper            16384  1 aesni_intel
+sch_fq_codel           20480  1
+parport_pc             40960  0
+ppdev                  24576  0
+drm                   491520  10 gpu_sched,drm_kms_helper,amdgpu,ttm
+lp                     20480  0
+parport                53248  3 parport_pc,lp,ppdev
+ip_tables              32768  0
+x_tables               40960  1 ip_tables
+autofs4                45056  2
+usbhid                 57344  0
+hid_generic            16384  0
+rtsx_pci_sdmmc         28672  0
+ahci                   40960  4
+crc32_pclmul           16384  0
+i2c_piix4              28672  0
+libahci                32768  1 ahci
+nvme                   49152  2
+nvme_core             102400  4 nvme
+rtsx_pci               73728  2 rtsx_pci_sdmmc,rtsx_pci_ms
+wmi                    32768  2 wmi_bmof,ideapad_laptop
+video                  49152  1 ideapad_laptop
+i2c_hid                28672  0
+hid                   131072  4 i2c_hid,usbhid,hid_multitouch,hid_generic
+NIC:
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (本地环回)
+        RX packets 1679  bytes 178022 (178.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1679  bytes 178022 (178.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.203.246.14  netmask 255.255.128.0  broadcast 10.203.255.255
+        inet6 2001:da8:1002:6004::2:7035  prefixlen 128  scopeid 0x0<global>
+        inet6 fe80::d964:4c33:c785:82d2  prefixlen 64  scopeid 0x20<link>
+        ether 3c:91:80:6f:f3:1b  txqueuelen 1000  (以太网)
+        RX packets 63233  bytes 87205520 (87.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 32525  bytes 4221722 (4.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+routing informatin:
+内核 IP 路由表
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         10.203.128.1    0.0.0.0         UG        0 0          0 wlp2s0
+10.203.128.0    0.0.0.0         255.255.128.0   U         0 0          0 wlp2s0
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 wlp2s0
+arp:
+? (10.203.145.162) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+? (10.203.234.68) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+? (10.203.166.107) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+_gateway (10.203.128.1) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+? (10.203.201.83) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+? (10.203.246.241) 位于 00:00:5e:00:01:65 [ether] 在 wlp2s0
+info of pro
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.2 171232 13212 ?        Ss   20:19   0:05 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    20:19   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   20:19   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   20:19   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/0:0H-kblockd]
+root           8  0.0  0.0      0     0 ?        I    20:19   0:01 [kworker/u32:0-events_unbound]
+root           9  0.0  0.0      0     0 ?        I<   20:19   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    20:19   0:01 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/2:0H-kblockd]
+root          27  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/3]
+root          28  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/3]
+root          29  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/3]
+root          30  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/3]
+root          32  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/3:0H-kblockd]
+root          33  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/4]
+root          34  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/4]
+root          35  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/4]
+root          36  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/4]
+root          38  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/4:0H-kblockd]
+root          39  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/5]
+root          40  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/5]
+root          41  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/5]
+root          42  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/5]
+root          44  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/5:0H-kblockd]
+root          45  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/6]
+root          46  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/6]
+root          47  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/6]
+root          48  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/6]
+root          50  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/6:0H-kblockd]
+root          51  0.0  0.0      0     0 ?        S    20:19   0:00 [cpuhp/7]
+root          52  0.0  0.0      0     0 ?        S    20:19   0:00 [idle_inject/7]
+root          53  0.0  0.0      0     0 ?        S    20:19   0:00 [migration/7]
+root          54  0.0  0.0      0     0 ?        S    20:19   0:00 [ksoftirqd/7]
+root          56  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/7:0H-kblockd]
+root          57  0.0  0.0      0     0 ?        S    20:19   0:00 [kdevtmpfs]
+root          58  0.0  0.0      0     0 ?        I<   20:19   0:00 [netns]
+root          59  0.0  0.0      0     0 ?        S    20:19   0:00 [rcu_tasks_kthre]
+root          60  0.0  0.0      0     0 ?        S    20:19   0:00 [kauditd]
+root          63  0.0  0.0      0     0 ?        S    20:19   0:00 [khungtaskd]
+root          64  0.0  0.0      0     0 ?        S    20:19   0:00 [oom_reaper]
+root          65  0.0  0.0      0     0 ?        I<   20:19   0:00 [writeback]
+root          66  0.0  0.0      0     0 ?        S    20:19   0:00 [kcompactd0]
+root          67  0.0  0.0      0     0 ?        SN   20:19   0:00 [ksmd]
+root          68  0.0  0.0      0     0 ?        SN   20:19   0:00 [khugepaged]
+root         161  0.0  0.0      0     0 ?        I<   20:19   0:00 [kintegrityd]
+root         162  0.0  0.0      0     0 ?        I<   20:19   0:00 [kblockd]
+root         163  0.0  0.0      0     0 ?        I<   20:19   0:00 [blkcg_punt_bio]
+root         165  0.0  0.0      0     0 ?        I<   20:19   0:00 [tpm_dev_wq]
+root         166  0.0  0.0      0     0 ?        I<   20:19   0:00 [ata_sff]
+root         167  0.0  0.0      0     0 ?        I<   20:19   0:00 [md]
+root         168  0.0  0.0      0     0 ?        I<   20:19   0:00 [edac-poller]
+root         169  0.0  0.0      0     0 ?        I<   20:19   0:00 [devfreq_wq]
+root         170  0.0  0.0      0     0 ?        S    20:19   0:00 [watchdogd]
+root         173  0.0  0.0      0     0 ?        S    20:19   0:00 [irq/25-AMD-Vi]
+root         176  0.0  0.0      0     0 ?        S    20:19   0:00 [kswapd0]
+root         177  0.0  0.0      0     0 ?        S    20:19   0:00 [ecryptfs-kthrea]
+root         180  0.0  0.0      0     0 ?        I<   20:19   0:00 [kthrotld]
+root         181  0.0  0.0      0     0 ?        S    20:19   0:00 [irq/26-aerdrv]
+root         182  0.0  0.0      0     0 ?        S    20:19   0:00 [irq/27-aerdrv]
+root         183  0.0  0.0      0     0 ?        S    20:19   0:00 [irq/28-aerdrv]
+root         185  0.0  0.0      0     0 ?        I<   20:19   0:00 [acpi_thermal_pm]
+root         186  0.0  0.0      0     0 ?        I<   20:19   0:00 [vfio-irqfd-clea]
+root         187  0.0  0.0      0     0 ?        I<   20:19   0:00 [ipv6_addrconf]
+root         198  0.0  0.0      0     0 ?        I<   20:19   0:00 [kstrp]
+root         202  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/u33:0-hci0]
+root         218  0.0  0.0      0     0 ?        I<   20:19   0:00 [charger_manager]
+root         219  0.0  0.0      0     0 ?        I    20:19   0:00 [kworker/4:2-events]
+root         255  0.0  0.0      0     0 ?        S    20:19   0:01 [irq/49-SYNA3255]
+root         257  0.0  0.0      0     0 ?        I    20:19   0:00 [kworker/1:2-events]
+root         258  0.0  0.0      0     0 ?        I<   20:19   0:00 [nvme-wq]
+root         259  0.0  0.0      0     0 ?        I<   20:19   0:00 [nvme-reset-wq]
+root         260  0.0  0.0      0     0 ?        I<   20:19   0:00 [nvme-delete-wq]
+root         275  0.0  0.0      0     0 ?        S    20:19   0:00 [scsi_eh_0]
+root         276  0.0  0.0      0     0 ?        I<   20:19   0:00 [scsi_tmf_0]
+root         277  0.0  0.0      0     0 ?        S    20:19   0:00 [scsi_eh_1]
+root         278  0.0  0.0      0     0 ?        I<   20:19   0:00 [scsi_tmf_1]
+root         282  0.0  0.0      0     0 ?        I    20:19   0:00 [kworker/2:3-events]
+root         283  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/0:1H-events_highpri]
+root         310  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/3:1H-kblockd]
+root         312  0.0  0.0      0     0 ?        S    20:19   0:00 [jbd2/sda3-8]
+root         313  0.0  0.0      0     0 ?        I<   20:19   0:00 [ext4-rsv-conver]
+root         314  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/4:1H-events_highpri]
+root         323  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/1:1H-events_highpri]
+root         330  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/7:1H-events_highpri]
+root         334  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/5:1H-events_highpri]
+root         348  0.0  0.0      0     0 ?        I<   20:19   0:00 [kworker/6:1H-kblockd]
+root         357  0.0  0.4  84724 25572 ?        S<s  20:20   0:00 /lib/systemd/systemd-journald
+root         360  0.0  0.0      0     0 ?        I<   20:20   0:00 [kworker/2:1H-kblockd]
+root         394  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop1]
+root         397  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop2]
+root         400  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop4]
+root         402  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop5]
+root         404  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop6]
+root         406  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop7]
+root         410  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop8]
+root         411  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop9]
+root         414  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop10]
+root         415  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop11]
+root         416  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop12]
+root         418  0.1  0.1  24608  8144 ?        Ss   20:20   0:03 /lib/systemd/systemd-udevd
+root         419  0.0  0.0      0     0 ?        S<   20:20   0:00 [loop13]
+root         455  0.0  0.0      0     0 ?        I<   20:20   0:00 [cryptd]
+root         456  0.0  0.0      0     0 ?        I    20:20   0:00 [kworker/3:2-events]
+root         511  0.0  0.0      0     0 ?        I<   20:20   0:00 [kmemstick]
+root         546  0.0  0.0      0     0 ?        I<   20:20   0:00 [cfg80211]
+root         606  0.0  0.0      0     0 ?        I    20:20   0:00 [kworker/6:3-events]
+root         609  0.0  0.0      0     0 ?        I<   20:20   0:00 [kworker/u33:1-hci0]
+root         611  0.0  0.0      0     0 ?        I<   20:20   0:00 [ath10k_wq]
+root         612  0.0  0.0      0     0 ?        I<   20:20   0:00 [ath10k_aux_wq]
+root         613  0.0  0.0      0     0 ?        I<   20:20   0:00 [amd_iommu_v2]
+root         621  0.0  0.0      0     0 ?        I<   20:20   0:00 [ttm_swap]
+root         628  0.0  0.0      0     0 ?        S    20:20   0:02 [gfx]
+root         629  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.0.0]
+root         630  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.1.0]
+root         631  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.2.0]
+root         632  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.3.0]
+root         633  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.0.1]
+root         634  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.1.1]
+root         635  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.2.1]
+root         636  0.0  0.0      0     0 ?        S    20:20   0:00 [comp_1.3.1]
+root         637  0.0  0.0      0     0 ?        S    20:20   0:01 [sdma0]
+root         638  0.0  0.0      0     0 ?        S    20:20   0:00 [vcn_dec]
+root         639  0.0  0.0      0     0 ?        S    20:20   0:00 [vcn_enc0]
+root         640  0.0  0.0      0     0 ?        S    20:20   0:00 [vcn_enc1]
+root         641  0.0  0.0      0     0 ?        S    20:20   0:00 [vcn_jpeg]
+root         882  0.0  0.0      0     0 ?        S    20:20   0:00 [jbd2/sda6-8]
+root         883  0.0  0.0      0     0 ?        I<   20:20   0:00 [ext4-rsv-conver]
+systemd+     903  0.0  0.2  24188 13496 ?        Ss   20:20   0:00 /lib/systemd/systemd-resolved
+systemd+     907  0.0  0.1  90424  6308 ?        Ssl  20:20   0:00 /lib/systemd/systemd-timesyncd
+root         927  0.0  0.1 250760  9544 ?        Ssl  20:20   0:00 /usr/lib/accountsservice/accounts-daemon
+root         928  0.0  0.0   2540   776 ?        Ss   20:20   0:00 /usr/sbin/acpid
+avahi        931  0.0  0.0   8508  3572 ?        Ss   20:20   0:00 avahi-daemon: running [zzlcom.local]
+root         932  0.0  0.0   8352  4896 ?        Ss   20:20   0:00 /usr/lib/bluetooth/bluetoothd
+root         933  0.0  0.0  18044  2900 ?        Ss   20:20   0:00 /usr/sbin/cron -f
+root         934  0.0  0.1  36800  8524 ?        Ss   20:20   0:00 /usr/sbin/cupsd -l
+message+     935  0.0  0.1   8972  6292 ?        Ss   20:20   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         936  0.1  0.3 347992 22864 ?        Ssl  20:20   0:03 /usr/sbin/NetworkManager --no-daemon
+root         947  0.0  0.0  81956  3684 ?        Ssl  20:20   0:00 /usr/sbin/irqbalance --foreground
+root         948  0.0  0.3  47936 20340 ?        Ss   20:20   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         950  0.0  0.2 253968 12696 ?        Ssl  20:20   0:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       952  0.0  0.0 224332  5316 ?        Ssl  20:20   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         955  0.0  0.1 244304  6096 ?        Ssl  20:20   0:00 /usr/libexec/switcheroo-control
+root         972  0.0  0.1  16888  8480 ?        Ss   20:20   0:00 /lib/systemd/systemd-logind
+root         974  0.0  0.2 396004 15760 ?        Ssl  20:20   0:00 /usr/lib/udisks2/udisksd
+root         975  0.0  0.1  14060  8904 ?        Ss   20:20   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        994  0.0  0.0   8328   332 ?        S    20:20   0:00 avahi-daemon: chroot helper
+root        1009  0.0  0.2 178388 12716 ?        Ssl  20:20   0:00 /usr/sbin/cups-browsed
+root        1038  0.0  0.1 240004 10656 ?        Ssl  20:20   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root        1070  0.0  0.3 126764 22616 ?        Ssl  20:20   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1089  0.0  0.1 248216  8864 ?        Ssl  20:20   0:00 /usr/sbin/gdm3
+root        1093  0.0  0.1  12168  6964 ?        Ss   20:20   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root        1098  0.0  0.1 175756  9508 ?        Sl   20:20   0:00 gdm-session-worker [pam/gdm-autologin]
+zzl         1136  0.0  0.1  19392 10612 ?        Ss   20:20   0:00 /lib/systemd/systemd --user
+zzl         1137  0.0  0.0 169152  3716 ?        S    20:20   0:00 (sd-pam)
+zzl         1153  0.5  0.3 2539040 18760 ?       S<sl 20:20   0:13 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+zzl         1155  0.0  0.4 669940 28664 ?        SNsl 20:20   0:02 /usr/libexec/tracker-miner-fs
+zzl         1159  0.0  0.1 249036  7280 ?        Sl   20:20   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+zzl         1163  0.0  0.1 172752  6612 tty2     Ssl+ 20:20   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+zzl         1166  1.5  1.6 1433792 102188 tty2   Sl+  20:20   0:40 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit       1178  0.0  0.0 152924  2956 ?        SNsl 20:20   0:00 /usr/libexec/rtkit-daemon
+zzl         1197  0.0  0.0   8264  5480 ?        Ss   20:20   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+zzl         1201  0.0  0.1 248460  7876 ?        Ssl  20:20   0:00 /usr/libexec/gvfsd
+zzl         1206  0.0  0.1 382060  8396 ?        Sl   20:20   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+zzl         1210  0.0  0.2 400160 13088 ?        Ssl  20:20   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+zzl         1232  0.0  0.1 244640  6232 ?        Ssl  20:20   0:00 /usr/libexec/gvfs-goa-volume-monitor
+zzl         1238  0.0  0.5 546576 36460 ?        Sl   20:20   0:00 /usr/libexec/goa-daemon
+root        1244  0.0  0.0      0     0 ?        S<   20:20   0:00 [krfcommd]
+whoopsie    1249  0.0  0.2 253564 16164 ?        Ssl  20:20   0:00 /usr/bin/whoopsie -f
+kernoops    1252  0.0  0.0  11248   448 ?        Ss   20:20   0:00 /usr/sbin/kerneloops --test
+kernoops    1254  0.0  0.0  11248   452 ?        Ss   20:20   0:00 /usr/sbin/kerneloops
+zzl         1297  0.0  0.1 327540 11756 ?        Sl   20:20   0:00 /usr/libexec/goa-identity-service
+zzl         1299  0.0  0.1 325492  8860 ?        Ssl  20:20   0:00 /usr/libexec/gvfs-afc-volume-monitor
+zzl         1308  0.0  0.0 244436  5944 ?        Ssl  20:20   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+zzl         1312  0.0  0.1 246844  7232 ?        Ssl  20:20   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+root        1317  0.0  0.1 261104 10084 ?        Ssl  20:20   0:00 /usr/lib/upower/upowerd
+zzl         1358  0.0  0.2 199536 15448 tty2     Sl+  20:20   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+zzl         1430  0.0  0.0   6032   456 ?        Ss   20:20   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+zzl         1447  0.2  0.2 329108 17844 ?        Ssl  20:20   0:07 /usr/bin/ibus-daemon --daemonize --xim
+zzl         1451  0.0  0.1 249240  9248 ?        Sl   20:20   0:00 /usr/libexec/ibus-dconf
+zzl         1452  0.0  1.2 1582592 77924 ?       Sl   20:20   0:00 /usr/libexec/ibus-ui-gtk3
+zzl         1457  0.0  1.0 1501496 65468 ?       Sl   20:20   0:02 /usr/libexec/ibus-extension-gtk3
+zzl         1460  0.0  0.9 1423808 59120 ?       Sl   20:20   0:00 /usr/libexec/ibus-x11 --kill-daemon
+zzl         1463  0.0  0.1 249084  9316 ?        Sl   20:20   0:00 /usr/libexec/ibus-portal
+zzl         1528  0.0  0.1 309772  9492 ?        Ssl  20:20   0:00 /usr/libexec/at-spi-bus-launcher
+zzl         1533  0.0  0.0   7224  4304 ?        S    20:20   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+zzl         1541  0.0  0.1 162820  7736 ?        Sl   20:20   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+zzl         1545  0.0  0.1 471588 10972 ?        Ssl  20:20   0:00 /usr/libexec/xdg-desktop-portal
+zzl         1571  0.0  0.0  98836  4352 ?        Ssl  20:20   0:00 /usr/libexec/gnome-session-ctl --monitor
+zzl         1573  0.0  0.1 466380  6716 ?        Ssl  20:20   0:00 /usr/libexec/xdg-document-portal
+zzl         1580  0.0  0.0 244456  4916 ?        Ssl  20:20   0:00 /usr/libexec/xdg-permission-store
+zzl         1590  0.0  0.5 507692 33272 ?        Ssl  20:20   0:00 /usr/libexec/xdg-desktop-portal-gtk
+zzl         1591  0.0  0.2 495860 17996 ?        Ssl  20:20   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+zzl         1603  0.0  0.0 156324  5536 ?        Sl   20:20   0:00 /usr/libexec/dconf-service
+zzl         1616  2.2  4.7 5940108 289812 ?      Ssl  20:20   0:59 /usr/bin/gnome-shell
+zzl         1657  0.0  0.1 175408  9224 ?        Sl   20:20   0:00 /usr/libexec/ibus-engine-simple
+zzl         1683  0.0  0.3 508036 20804 ?        Sl   20:20   0:00 /usr/libexec/gnome-shell-calendar-server
+zzl         1689  0.0  0.4 399360 26796 ?        Ssl  20:20   0:00 /usr/libexec/evolution-source-registry
+zzl         1722  0.0  0.4 2939364 26988 ?       Sl   20:20   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+zzl         1737  0.0  0.1 322792  9316 ?        Ssl  20:20   0:00 /usr/libexec/gsd-a11y-settings
+zzl         1739  0.0  0.4 583372 27036 ?        Ssl  20:20   0:00 /usr/libexec/gsd-color
+zzl         1740  0.0  0.2 383232 17444 ?        Ssl  20:20   0:00 /usr/libexec/gsd-datetime
+zzl         1742  0.0  0.1 323028  9740 ?        Ssl  20:20   0:00 /usr/libexec/gsd-housekeeping
+zzl         1744  0.0  0.5 357580 31096 ?        Ssl  20:20   0:00 /usr/libexec/gsd-keyboard
+zzl         1747  0.0  0.5 699996 33584 ?        Ssl  20:20   0:00 /usr/libexec/gsd-media-keys
+zzl         1748  0.0  0.5 431908 31856 ?        Ssl  20:20   0:00 /usr/libexec/gsd-power
+zzl         1749  0.0  0.1 257000 11468 ?        Ssl  20:20   0:00 /usr/libexec/gsd-print-notifications
+zzl         1750  0.0  0.1 465872  6252 ?        Ssl  20:20   0:00 /usr/libexec/gsd-rfkill
+zzl         1751  0.0  0.0 244280  5932 ?        Ssl  20:20   0:00 /usr/libexec/gsd-screensaver-proxy
+zzl         1752  0.0  0.2 477984 12816 ?        Ssl  20:20   0:00 /usr/libexec/gsd-sharing
+zzl         1753  0.0  0.1 326824 10780 ?        Ssl  20:20   0:00 /usr/libexec/gsd-smartcard
+zzl         1754  0.0  0.1 330644 11392 ?        Ssl  20:20   0:00 /usr/libexec/gsd-sound
+zzl         1755  0.0  0.1 396756  9688 ?        Ssl  20:20   0:00 /usr/libexec/gsd-usb-protection
+zzl         1756  0.0  0.5 357140 30640 ?        Ssl  20:20   0:00 /usr/libexec/gsd-wacom
+zzl         1757  0.0  0.1 327120 10716 ?        Ssl  20:20   0:00 /usr/libexec/gsd-wwan
+zzl         1758  0.0  0.5 358432 32024 ?        Ssl  20:20   0:00 /usr/libexec/gsd-xsettings
+zzl         1760  0.0  0.5 847720 31240 ?        Ssl  20:20   0:00 /usr/libexec/evolution-calendar-factory
+zzl         1771  0.0  1.0 639292 61256 ?        Sl   20:20   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+zzl         1772  0.0  0.0 231792  5880 ?        Sl   20:20   0:00 /usr/libexec/gsd-disk-utility-notify
+zzl         1783  0.0  0.4 275800 29324 ?        Sl   20:20   0:02 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+zzl         1784  0.2  3.5 1189436 219096 ?      Sl   20:20   0:07 /snap/snap-store/558/usr/bin/snap-store --gapplication-service
+zzl         1851  0.0  0.2 350956 15344 ?        Sl   20:20   0:00 /usr/libexec/gsd-printer
+zzl         1893  0.0  0.1 326580 11144 ?        Sl   20:20   0:00 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+colord      1917  0.0  0.2 257824 16620 ?        Ssl  20:21   0:00 /usr/libexec/colord
+zzl         1961  0.0  0.5 756280 33768 ?        Ssl  20:21   0:00 /usr/libexec/evolution-addressbook-factory
+root        2048  0.0  1.3 446192 84760 ?        Ssl  20:21   0:01 /usr/libexec/fwupd/fwupd
+zzl         2927  0.0  0.1 171116  6692 ?        Ssl  20:21   0:00 /usr/libexec/gvfsd-metadata
+zzl         2968  0.0  0.5 452056 35152 ?        Sl   20:21   0:00 update-notifier
+zzl         4424  3.0  5.4 3208616 334136 ?      Sl   20:22   1:16 /usr/lib/firefox/firefox -new-window
+zzl         4530  0.1  3.2 2600376 199392 ?      Sl   20:22   0:03 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 220376 -parentBuildID 20200720193547 -appdir /usr/lib/firefox/browser 4424 true tab
+zzl         4565  1.1  5.8 2746548 358068 ?      Sl   20:22   0:28 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 41 -prefMapSize 220376 -parentBuildID 20200720193547 -appdir /usr/lib/firefox/browser 4424 true tab
+zzl         4626  0.0  1.9 2488828 119820 ?      Sl   20:22   0:01 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 6373 -prefMapSize 220376 -parentBuildID 20200720193547 -appdir /usr/lib/firefox/browser 4424 true tab
+zzl         4826  0.0  0.1 326736 10596 ?        Sl   20:23   0:00 /usr/libexec/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+zzl         4845  0.0  0.1 323744  8260 ?        Sl   20:24   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/3
+root        5800  0.0  0.0      0     0 ?        S<   20:26   0:00 [loop14]
+root        5819  0.0  0.0      0     0 ?        I    20:26   0:00 [kworker/3:0-events]
+root        5836  0.0  0.0      0     0 ?        I    20:26   0:00 [kworker/1:0-events]
+root        6015  0.0  0.0      0     0 ?        S<   20:26   0:00 [loop0]
+root        6151  0.0  0.0      0     0 ?        S<   20:26   0:00 [loop15]
+root        6244  0.0  0.6 1538904 37808 ?       Ssl  20:26   0:02 /usr/lib/snapd/snapd
+root        6409  0.0  0.0      0     0 ?        I    20:29   0:00 [kworker/7:1-events]
+root        6429  0.0  0.0  18100  2756 ?        Ss   20:29   0:00 /sbin/mount.ntfs /dev/sda2 /media/zzl/Data -o rw,nodev,nosuid,windows_names,uid=1000,gid=1000,uhelper=udisks2
+root        6456  0.0  0.0  19616  4376 ?        Ss   20:29   0:00 /sbin/mount.ntfs /dev/nvme0n1p3 /media/zzl/Windows-SSD -o rw,nodev,nosuid,windows_names,uid=1000,gid=1000,uhelper=udisks2
+root        6494  0.0  0.0      0     0 ?        I    20:30   0:00 [kworker/6:0-cgroup_destroy]
+root        6540  0.0  0.0      0     0 ?        I    20:30   0:00 [kworker/4:0-events]
+zzl         6615  0.6  1.1 1056064 69672 ?       Ssl  20:34   0:11 /usr/libexec/gnome-terminal-server
+zzl         6626  0.0  0.0  20060  5948 pts/0    Ss   20:34   0:00 bash
+root        6690  0.0  0.0      0     0 ?        I    20:35   0:00 [kworker/7:0-events]
+root        6731  0.0  0.0      0     0 ?        I    20:35   0:00 [kworker/2:0-events]
+root        6763  0.0  0.0      0     0 ?        I    20:36   0:00 [kworker/0:1-events]
+root        6774  0.0  0.0      0     0 ?        I    20:36   0:00 [kworker/0:3-events]
+root        6794  0.0  0.0      0     0 ?        I    20:38   0:00 [kworker/u32:3-phy0]
+zzl         6935  0.0  0.1 458988  8236 ?        Sl   20:42   0:00 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+zzl         6942  0.0  0.0 360044  5588 ?        Sl   20:42   0:00 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+zzl         6945  0.0  0.0 360076  6004 ?        Sl   20:42   0:00 /usr/lib/speech-dispatcher-modules/sd_generic /etc/speech-dispatcher/modules/mary-generic.conf
+zzl         6948  0.0  0.0 168356  2288 ?        Ssl  20:42   0:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/1000/speech-dispatcher/speechd.sock
+root        6991  0.0  0.0      0     0 ?        I    20:46   0:00 [kworker/5:1-events]
+root        7002  0.0  0.0      0     0 ?        I    20:46   0:00 [kworker/5:2-events]
+root        7228  0.0  0.0      0     0 ?        I    20:50   0:00 [kworker/u32:1-phy0]
+root        7779  0.0  0.0      0     0 ?        D    20:55   0:00 [kworker/u32:2+events_unbound]
+root        7926  0.0  0.0      0     0 ?        I    21:02   0:00 [kworker/6:1-events]
+root        7936  0.0  0.0      0     0 ?        I    21:02   0:00 [kworker/0:0-events]
+zzl         7941  0.2  1.3 2409280 84452 ?       Sl   21:02   0:00 /usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 10000 -prefMapSize 220376 -parentBuildID 20200720193547 -appdir /usr/lib/firefox/browser 4424 true tab
+root        7987  0.0  0.0      0     0 ?        I    21:02   0:00 [kworker/3:1-events]
+root        7988  0.0  0.0      0     0 ?        I    21:02   0:00 [kworker/3:3-events]
+root        7996  0.0  0.0      0     0 ?        I    21:03   0:00 [kworker/0:2-events]
+zzl         8002  0.0  0.0  20128  3320 pts/0    R+   21:04   0:00 ps aux
